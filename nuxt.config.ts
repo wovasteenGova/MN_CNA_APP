@@ -9,7 +9,7 @@ export default defineNuxtConfig({
   },
   nitro: {
     prerender: {
-      routes: ['/']
+      routes: ['/', '/donate']
     }
   },
   ssr: false, // Disable SSR for static generation
