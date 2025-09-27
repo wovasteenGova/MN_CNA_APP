@@ -27,18 +27,17 @@
             >
               Home
             </UButton>
-            <NuxtLink to="/donate">
-              <UButton
-                color="amber"
-                variant="soft"
-                size="lg"
-                icon="i-heroicons-heart"
-                class="bg-gradient-to-r from-amber-100 to-yellow-100 hover:from-amber-200 hover:to-yellow-200 dark:from-amber-900/50 dark:to-yellow-900/50 text-amber-700 dark:text-amber-300 border-0 shadow-md hover:shadow-lg transition-all duration-200"
-                :ui="{ rounded: 'rounded-full' }"
-              >
-                Donate
-              </UButton>
-            </NuxtLink>
+            <UButton
+              @click="goToDonate"
+              color="amber"
+              variant="soft"
+              size="lg"
+              icon="i-heroicons-heart"
+              class="bg-gradient-to-r from-amber-100 to-yellow-100 hover:from-amber-200 hover:to-yellow-200 dark:from-amber-900/50 dark:to-yellow-900/50 text-amber-700 dark:text-amber-300 border-0 shadow-md hover:shadow-lg transition-all duration-200"
+              :ui="{ rounded: 'rounded-full' }"
+            >
+              Donate
+            </UButton>
           </div>
         </div>
 
@@ -516,6 +515,9 @@ useHead({
   ]
 })
 
+// Router
+const router = useRouter()
+
 // Reactive state
 const chapters = ref([])
 const selectedChapter = ref(null)
@@ -772,6 +774,11 @@ const goBackToChapters = () => {
 const goToHome = () => {
   // Navigate to the homepage using Nuxt router
   navigateTo('/')
+}
+
+const goToDonate = () => {
+  console.log('Donate button clicked!')
+  router.push('/donate')
 }
 
 
