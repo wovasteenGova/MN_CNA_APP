@@ -2,15 +2,15 @@
   <UApp>
     <div class="min-h-screen bg-gradient-to-br from-slate-50 via-teal-50 to-cyan-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900">
       <!-- Header -->
-      <UContainer class="py-8">
-        <div class="text-center mb-8">
-          <div class="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-teal-500 to-cyan-600 rounded-2xl mb-4 shadow-lg">
-            <UIcon name="i-heroicons-academic-cap" class="w-8 h-8 text-white" />
+      <UContainer class="py-4 sm:py-8 px-4">
+        <div class="text-center mb-6 sm:mb-8">
+          <div class="inline-flex items-center justify-center w-12 h-12 sm:w-16 sm:h-16 bg-gradient-to-br from-teal-500 to-cyan-600 rounded-2xl mb-3 sm:mb-4 shadow-lg">
+            <UIcon name="i-heroicons-academic-cap" class="w-6 h-6 sm:w-8 sm:h-8 text-white" />
           </div>
-          <h1 class="text-4xl font-bold bg-gradient-to-r from-teal-600 to-cyan-600 bg-clip-text text-transparent mb-2">
+          <h1 class="text-2xl sm:text-3xl md:text-4xl font-bold bg-gradient-to-r from-teal-600 to-cyan-600 bg-clip-text text-transparent mb-2 px-2">
             Minnesota CNA Study App
           </h1>
-          <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
+          <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 mb-4 px-2">
             Master your Certified Nursing Assistant exam with confidence
           </p>
           
@@ -98,7 +98,7 @@
         </div>
 
         <!-- Chapter Grid -->
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 px-2 sm:px-0">
           <!-- Loading State -->
           <div v-if="chapters.length === 0" class="col-span-full text-center py-12">
             <UIcon name="i-heroicons-arrow-path" class="w-12 h-12 text-teal-500 animate-spin mx-auto mb-4" />
@@ -112,16 +112,16 @@
             @click="selectChapter(chapter)"
             class="cursor-pointer hover:shadow-2xl transition-all duration-300 hover:scale-105 hover:border-teal-300 dark:hover:border-teal-500 bg-white/80 dark:bg-slate-800/90 backdrop-blur-sm border border-slate-200/50 dark:border-slate-700/50"
             :ui="{ 
-              body: { padding: 'p-6' },
-              header: { padding: 'p-6 pb-4' }
+              body: { padding: 'p-4 sm:p-6' },
+              header: { padding: 'p-4 sm:p-6 pb-3 sm:pb-4' }
             }"
           >
             <template #header>
               <div class="flex items-center justify-between mb-3">
-                <h3 class="text-xl font-bold text-slate-800 dark:text-slate-100">
+                <h3 class="text-lg sm:text-xl font-bold text-slate-800 dark:text-slate-100 leading-tight">
                   {{ chapter.chapter }}
                 </h3>
-                <UBadge color="teal" variant="soft" size="lg" class="bg-gradient-to-r from-teal-100 to-cyan-100 dark:from-teal-900/50 dark:to-cyan-900/50 text-teal-700 dark:text-teal-300 border-0">
+                <UBadge color="teal" variant="soft" :size="$device.isMobile ? 'md' : 'lg'" class="bg-gradient-to-r from-teal-100 to-cyan-100 dark:from-teal-900/50 dark:to-cyan-900/50 text-teal-700 dark:text-teal-300 border-0 text-xs sm:text-sm">
                   {{ chapter.questions.length }} questions
                 </UBadge>
               </div>
@@ -132,10 +132,10 @@
                 <div v-if="getChapterProgressStats(chapter.chapter).studied > 0" class="space-y-2">
                   <!-- Big Bold Progress Percentage -->
                   <div class="text-center">
-                    <div class="text-4xl font-bold bg-gradient-to-r from-teal-600 to-cyan-600 bg-clip-text text-transparent mb-1">
+                    <div class="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-teal-600 to-cyan-600 bg-clip-text text-transparent mb-1">
                       {{ getChapterProgressStats(chapter.chapter).percentage }}%
                     </div>
-                    <div class="text-sm font-medium text-slate-600 dark:text-slate-400">
+                    <div class="text-xs sm:text-sm font-medium text-slate-600 dark:text-slate-400">
                       {{ getChapterProgressStats(chapter.chapter).studied }}/{{ chapter.questions.length }} questions studied
                     </div>
                   </div>

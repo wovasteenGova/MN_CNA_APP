@@ -13,5 +13,15 @@ export default defineNuxtConfig({
     }
   },
   ssr: false, // Disable SSR for static generation
-  target: 'static' // Enable static generation
+  target: 'static', // Enable static generation
+  app: {
+    head: {
+      title: 'MN CNA APP',
+      meta: [
+        { name: 'description', content: 'Minnesota CNA Study App - Master your Certified Nursing Assistant exam with confidence' },
+        { name: 'viewport', content: 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' },
+        { name: 'format-detection', content: 'telephone=no' }
+      ]
+    }
+  }
 })

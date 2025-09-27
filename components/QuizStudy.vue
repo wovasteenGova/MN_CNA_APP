@@ -1,14 +1,14 @@
 <template>
-  <div class="max-w-4xl mx-auto">
+  <div class="max-w-4xl mx-auto px-2 sm:px-4">
     <div class="bg-white rounded-lg shadow-lg overflow-hidden">
       <!-- Question Counter -->
-      <div class="bg-gray-50 px-6 py-4 border-b">
-        <div class="flex justify-between items-center">
+      <div class="bg-gray-50 px-4 sm:px-6 py-3 sm:py-4 border-b">
+        <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-2 sm:gap-0">
           <span class="text-sm font-medium text-gray-600">
             Question {{ questionNumber }} of {{ totalQuestions }}
           </span>
           <div class="flex items-center space-x-2">
-            <span class="text-sm text-gray-600">Mode:</span>
+            <span class="text-sm text-gray-600 hidden sm:inline">Mode:</span>
             <span class="inline-flex items-center px-2 py-1 rounded text-xs font-medium bg-blue-100 text-blue-800">
               Multiple Choice
             </span>
@@ -17,20 +17,20 @@
       </div>
 
       <!-- Question -->
-      <div class="p-8">
-        <div class="mb-8">
-          <h2 class="text-xl md:text-2xl font-semibold text-gray-900 leading-relaxed mb-6">
+      <div class="p-4 sm:p-6 md:p-8">
+        <div class="mb-6 sm:mb-8">
+          <h2 class="text-lg sm:text-xl md:text-2xl font-semibold text-gray-900 leading-relaxed mb-4 sm:mb-6">
             {{ question.question }}
           </h2>
         </div>
 
         <!-- Answer Choices -->
-        <div class="space-y-3">
+        <div class="space-y-2 sm:space-y-3">
           <label
             v-for="(choice, index) in shuffledChoices"
             :key="index"
             :class="[
-              'block p-4 rounded-lg border-2 cursor-pointer transition-all duration-200',
+              'block p-3 sm:p-4 rounded-lg border-2 cursor-pointer transition-all duration-200',
               getChoiceClasses(choice, index)
             ]"
             @click="selectAnswer(choice)"
@@ -49,10 +49,10 @@
                 class="sr-only"
                 :aria-describedby="`choice-${index}`"
               />
-              <div class="flex-shrink-0 mr-4">
+              <div class="flex-shrink-0 mr-3 sm:mr-4">
                 <div
                   :class="[
-                    'w-6 h-6 rounded-full border-2 flex items-center justify-center text-sm font-semibold',
+                    'w-5 h-5 sm:w-6 sm:h-6 rounded-full border-2 flex items-center justify-center text-xs sm:text-sm font-semibold',
                     getRadioClasses(choice)
                   ]"
                 >
@@ -66,7 +66,7 @@
                 <p
                   :id="`choice-${index}`"
                   :class="[
-                    'text-sm font-medium',
+                    'text-sm sm:text-base font-medium leading-relaxed',
                     selectedAnswer === choice ? 'text-white' : 'text-gray-900'
                   ]"
                 >
@@ -97,32 +97,32 @@
       </div>
 
       <!-- Action Buttons -->
-      <div class="bg-gray-50 px-6 py-4 border-t">
-        <div class="flex justify-between items-center">
-          <div class="flex space-x-3">
+      <div class="bg-gray-50 px-4 sm:px-6 py-4 border-t">
+        <div class="flex flex-col sm:flex-row justify-between items-center gap-4 sm:gap-0">
+          <div class="flex space-x-2 sm:space-x-3 w-full sm:w-auto">
             <button
               @click="$emit('previous')"
-              class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+              class="flex-1 sm:flex-initial inline-flex items-center justify-center px-3 sm:px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
             >
               ← Previous
             </button>
             <button
               @click="$emit('next')"
-              class="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+              class="flex-1 sm:flex-initial inline-flex items-center justify-center px-3 sm:px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
             >
               Next →
             </button>
           </div>
           
-          <div class="flex items-center space-x-4">
+          <div class="flex flex-col sm:flex-row items-center gap-3 sm:gap-4 w-full sm:w-auto">
             <button
               v-if="!showFeedback && selectedAnswer"
               @click="checkAnswer"
-              class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+              class="w-full sm:w-auto inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
             >
               Check Answer
             </button>
-            <div class="flex items-center space-x-2">
+            <div class="hidden lg:flex items-center space-x-2">
               <span class="text-sm text-gray-600">Keyboard shortcuts:</span>
               <kbd class="px-2 py-1 text-xs font-semibold text-gray-800 bg-gray-200 border border-gray-300 rounded">A-D</kbd>
               <span class="text-xs text-gray-500">to select</span>

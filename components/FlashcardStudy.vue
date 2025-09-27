@@ -1,24 +1,24 @@
 <template>
-  <div class="max-w-4xl mx-auto">
+  <div class="max-w-4xl mx-auto px-2 sm:px-4">
     <div class="bg-white rounded-lg shadow-lg overflow-hidden">
       <!-- Question Counter -->
-      <div class="bg-gray-50 px-6 py-4 border-b">
+      <div class="bg-gray-50 px-4 sm:px-6 py-3 sm:py-4 border-b">
         <div class="flex justify-between items-center">
           <span class="text-sm font-medium text-gray-600">
             Question {{ questionNumber }} of {{ totalQuestions }}
           </span>
           <button
             @click="shuffleQuestions"
-            class="text-sm text-blue-600 hover:text-blue-800 font-medium"
+            class="text-sm text-blue-600 hover:text-blue-800 font-medium px-2 py-1 rounded hover:bg-blue-50"
             title="Shuffle questions"
           >
-            🔀 Shuffle
+            🔀 <span class="hidden sm:inline">Shuffle</span>
           </button>
         </div>
       </div>
 
       <!-- Flashcard -->
-      <div class="relative h-96 perspective-1000">
+      <div class="relative h-80 sm:h-96 perspective-1000">
         <div
           ref="cardRef"
           class="relative w-full h-full transition-transform duration-700 transform-style-preserve-3d cursor-pointer"
@@ -32,20 +32,20 @@
         >
           <!-- Question Side -->
           <div
-            class="absolute inset-0 w-full h-full backface-hidden bg-gradient-to-br from-blue-50 to-blue-100 flex items-center justify-center p-8"
+            class="absolute inset-0 w-full h-full backface-hidden bg-gradient-to-br from-blue-50 to-blue-100 flex items-center justify-center p-4 sm:p-6 md:p-8"
           >
             <div class="text-center max-w-2xl">
-              <div class="mb-6">
+              <div class="mb-4 sm:mb-6">
                 <span class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-blue-100 text-blue-800 mb-4">
                   Question
                 </span>
               </div>
-              <h2 class="text-xl md:text-2xl font-semibold text-gray-900 leading-relaxed">
+              <h2 class="text-lg sm:text-xl md:text-2xl font-semibold text-gray-900 leading-relaxed">
                 {{ question.question }}
               </h2>
-              <div class="mt-8">
+              <div class="mt-6 sm:mt-8">
                 <p class="text-sm text-gray-600">
-                  Click the card to reveal the answer
+                  Tap the card to reveal the answer
                 </p>
                 <div class="mt-4">
                   <span class="inline-flex items-center px-4 py-2 rounded-lg bg-white bg-opacity-50 text-gray-700 text-sm font-medium">
