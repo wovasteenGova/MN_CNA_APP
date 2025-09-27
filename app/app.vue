@@ -17,7 +17,7 @@
           <!-- Home and Donate Buttons -->
           <div class="flex justify-center gap-3 sm:gap-4">
             <UButton
-              @click="goToHome"
+              @click="goBackToChapters"
               color="teal"
               variant="soft"
               size="lg"
@@ -28,26 +28,17 @@
               Home
             </UButton>
             
-            <!-- Simple test links -->
-            <a href="/test" class="inline-flex items-center px-4 py-2 bg-green-500 text-white rounded-full hover:bg-green-600 transition-colors text-sm">
-              🧪 Test Page
-            </a>
-            <a href="/donate" class="inline-flex items-center px-4 py-2 bg-amber-500 text-white rounded-full hover:bg-amber-600 transition-colors text-sm">
-              💝 Donate Link
-            </a>
-            
-            <NuxtLink to="/donate">
-              <UButton
-                color="amber"
-                variant="soft"
-                size="lg"
-                icon="i-heroicons-heart"
-                class="bg-gradient-to-r from-amber-100 to-yellow-100 hover:from-amber-200 hover:to-yellow-200 dark:from-amber-900/50 dark:to-yellow-900/50 text-amber-700 dark:text-amber-300 border-0 shadow-md hover:shadow-lg transition-all duration-200"
-                :ui="{ rounded: 'rounded-full' }"
-              >
-                Donate (NuxtLink)
-              </UButton>
-            </NuxtLink>
+            <UButton
+              @click="showDonationModal = true"
+              color="amber"
+              variant="soft"
+              size="lg"
+              icon="i-heroicons-heart"
+              class="bg-gradient-to-r from-amber-100 to-yellow-100 hover:from-amber-200 hover:to-yellow-200 dark:from-amber-900/50 dark:to-yellow-900/50 text-amber-700 dark:text-amber-300 border-0 shadow-md hover:shadow-lg transition-all duration-200"
+              :ui="{ rounded: 'rounded-full' }"
+            >
+              Donate
+            </UButton>
           </div>
         </div>
 
@@ -509,6 +500,135 @@
       </div>
     </UContainer>
     
+    <!-- Custom Donation Modal -->
+    <div 
+      v-if="showDonationModal" 
+      class="fixed inset-0 z-50 flex items-center justify-center p-4"
+      @click="showDonationModal = false"
+    >
+      <!-- Modal Backdrop -->
+      <div class="absolute inset-0 bg-black/50 backdrop-blur-sm"></div>
+      
+      <!-- Modal Content -->
+      <div 
+        class="relative bg-white dark:bg-slate-800 rounded-2xl shadow-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto"
+        @click.stop
+      >
+        <!-- Modal Header -->
+        <div class="flex items-center justify-between p-6 border-b border-slate-200 dark:border-slate-700">
+          <div class="flex items-center space-x-3">
+            <div class="p-2 bg-gradient-to-br from-amber-500 to-yellow-600 rounded-lg">
+              <UIcon name="i-heroicons-heart" class="w-5 h-5 text-white" />
+            </div>
+            <h2 class="text-xl font-bold text-slate-800 dark:text-slate-100">Support the Developer</h2>
+          </div>
+          <button
+            @click="showDonationModal = false"
+            class="p-2 hover:bg-slate-100 dark:hover:bg-slate-700 rounded-full transition-colors"
+          >
+            <UIcon name="i-heroicons-x-mark" class="w-5 h-5 text-slate-500 dark:text-slate-400" />
+          </button>
+        </div>
+        
+        <!-- Modal Body -->
+        <div class="p-6 space-y-6">
+          <div class="text-center">
+            <p class="text-slate-600 dark:text-slate-300 mb-4">
+              If this CNA study app has helped you in your journey, consider supporting its development! 
+              Your donation helps keep the app free and continuously improved.
+            </p>
+            <div class="inline-flex items-center px-4 py-2 bg-teal-50 dark:bg-teal-900/30 rounded-lg">
+              <UIcon name="i-heroicons-academic-cap" class="w-5 h-5 text-teal-600 dark:text-teal-400 mr-2" />
+              <span class="text-sm font-medium text-teal-700 dark:text-teal-300">
+                Help future CNAs succeed! 🎓
+              </span>
+            </div>
+          </div>
+          
+          <div class="text-center">
+            <h3 class="text-lg font-semibold text-slate-800 dark:text-slate-100 mb-4">
+              Choose Your Preferred Donation Method
+            </h3>
+            
+            <!-- Donation Options -->
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+              <!-- PayPal - Disabled (Uncomment when ready) -->
+              <!-- 
+              UNCOMMENT THIS WHEN PAYPAL LINK IS READY:
+              <button 
+                @click="openDonationLink('paypal')"
+                class="group p-6 bg-gradient-to-br from-blue-50 to-blue-100 dark:from-blue-900/20 dark:to-blue-800/20 rounded-xl border-2 border-blue-200 dark:border-blue-700 hover:border-blue-300 dark:hover:border-blue-600 transition-all duration-200 hover:scale-105 hover:shadow-lg"
+              >
+                <div class="text-center">
+                  <div class="w-12 h-12 mx-auto mb-3 bg-blue-600 rounded-lg flex items-center justify-center group-hover:bg-blue-700 transition-colors">
+                    <span class="text-white font-bold text-lg">P</span>
+                  </div>
+                  <h4 class="font-semibold text-slate-800 dark:text-slate-100 mb-2">PayPal</h4>
+                  <p class="text-sm text-slate-600 dark:text-slate-400">
+                    Secure & widely accepted
+                  </p>
+                </div>
+              </button>
+              -->
+              
+              <!-- TEMPORARY DISABLED VERSION (DELETE WHEN READY) -->
+              <button 
+                @click="openDonationLink('paypal')"
+                class="group p-6 bg-gradient-to-br from-slate-50 to-slate-100 dark:from-slate-800/20 dark:to-slate-700/20 rounded-xl border-2 border-slate-200 dark:border-slate-600 opacity-60 cursor-not-allowed transition-all duration-200"
+              >
+                <div class="text-center">
+                  <div class="w-12 h-12 mx-auto mb-3 bg-slate-400 rounded-lg flex items-center justify-center">
+                    <span class="text-white font-bold text-lg">P</span>
+                  </div>
+                  <h4 class="font-semibold text-slate-600 dark:text-slate-400 mb-2">PayPal</h4>
+                  <p class="text-sm text-slate-500 dark:text-slate-500">
+                    Coming Soon...
+                  </p>
+                </div>
+              </button>
+              
+              <!-- Venmo -->
+              <button 
+                @click="openDonationLink('venmo')"
+                class="group p-6 bg-gradient-to-br from-sky-50 to-cyan-100 dark:from-sky-900/20 dark:to-cyan-800/20 rounded-xl border-2 border-sky-200 dark:border-sky-700 hover:border-sky-300 dark:hover:border-sky-600 transition-all duration-200 hover:scale-105 hover:shadow-lg"
+              >
+                <div class="text-center">
+                  <div class="w-12 h-12 mx-auto mb-3 bg-sky-600 rounded-lg flex items-center justify-center group-hover:bg-sky-700 transition-colors">
+                    <span class="text-white font-bold text-lg">V</span>
+                  </div>
+                  <h4 class="font-semibold text-slate-800 dark:text-slate-100 mb-2">Venmo</h4>
+                  <p class="text-sm text-slate-600 dark:text-slate-400">
+                    Quick & easy mobile payments
+                  </p>
+                </div>
+              </button>
+              
+              <!-- Cash App -->
+              <button 
+                @click="openDonationLink('cashapp')"
+                class="group p-6 bg-gradient-to-br from-green-50 to-emerald-100 dark:from-green-900/20 dark:to-emerald-800/20 rounded-xl border-2 border-green-200 dark:border-green-700 hover:border-green-300 dark:hover:border-green-600 transition-all duration-200 hover:scale-105 hover:shadow-lg"
+              >
+                <div class="text-center">
+                  <div class="w-12 h-12 mx-auto mb-3 bg-green-600 rounded-lg flex items-center justify-center group-hover:bg-green-700 transition-colors">
+                    <span class="text-white font-bold text-lg">$</span>
+                  </div>
+                  <h4 class="font-semibold text-slate-800 dark:text-slate-100 mb-2">Cash App</h4>
+                  <p class="text-sm text-slate-600 dark:text-slate-400">
+                    Simple cash transfers
+                  </p>
+                </div>
+              </button>
+            </div>
+          </div>
+          
+          <div class="text-center pt-4 border-t border-slate-200 dark:border-slate-700">
+            <p class="text-sm text-slate-500 dark:text-slate-400">
+              Every contribution, big or small, is deeply appreciated! ❤️
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
     
     </div>
   </UApp>
@@ -539,6 +659,7 @@ const showAnswer = ref(false)
 const selectedAnswer = ref(null)
 const showResult = ref(false)
 const chapterProgress = ref({})
+const showDonationModal = ref(false)
 
 // Computed properties
 const currentQuestion = computed(() => {
@@ -781,12 +902,32 @@ const goBackToChapters = () => {
   showResult.value = false
 }
 
-const goToHome = () => {
-  // Navigate to the homepage using Nuxt router
-  navigateTo('/')
+
+
+
+const openDonationLink = (platform) => {
+  // Real donation links
+  const donationLinks = {
+    paypal: null, // ADD YOUR PAYPAL LINK HERE WHEN READY: 'https://paypal.me/yourusername'
+    venmo: 'https://venmo.com/code?user_id=2972961464123392287&created=1758939359',
+    cashapp: 'https://cash.app/$WovaGova'
+  }
+  
+  const link = donationLinks[platform]
+  
+  // Don't allow PayPal clicks until link is ready
+  if (platform === 'paypal') {
+    alert('PayPal link coming soon! Please use Venmo or Cash App for now.')
+    return
+  }
+  
+  if (link && typeof window !== 'undefined') {
+    window.open(link, '_blank')
+  }
+  
+  // Close the modal after clicking
+  showDonationModal.value = false
 }
-
-
 
 const nextQuestion = () => {
   if (currentQuestionIndex.value < selectedChapter.value.questions.length - 1) {
