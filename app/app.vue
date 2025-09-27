@@ -1,6 +1,6 @@
 <template>
-  <UApp>
-    <div class="min-h-screen bg-gradient-to-br from-slate-50 via-teal-50 to-cyan-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900">
+  <UApp class="dark">
+    <div class="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900">
       <!-- Header -->
       <UContainer class="py-4 sm:py-8 px-4">
         <div class="text-center mb-6 sm:mb-8">
@@ -637,12 +637,15 @@
 <script setup>
 import { ref, computed, onMounted } from 'vue'
 
-// Set page title
+// Set page title and force dark mode
 useHead({
   title: 'MN CNA APP',
   meta: [
     { name: 'description', content: 'Minnesota CNA Study App - Master your Certified Nursing Assistant exam with confidence' }
-  ]
+  ],
+  htmlAttrs: {
+    class: 'dark'
+  }
 })
 
 // Router
@@ -993,6 +996,12 @@ const loadData = async () => {
 
 // Initialize data
 onMounted(async () => {
+  // Force dark mode on all devices
+  if (typeof window !== 'undefined') {
+    document.documentElement.classList.add('dark')
+    document.body.classList.add('dark')
+  }
+  
   await loadData()
   loadProgress()
   
