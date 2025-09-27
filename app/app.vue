@@ -121,7 +121,7 @@
                 <h3 class="text-lg sm:text-xl font-bold text-slate-800 dark:text-slate-100 leading-tight">
                   {{ chapter.chapter }}
                 </h3>
-                <UBadge color="teal" variant="soft" :size="$device.isMobile ? 'md' : 'lg'" class="bg-gradient-to-r from-teal-100 to-cyan-100 dark:from-teal-900/50 dark:to-cyan-900/50 text-teal-700 dark:text-teal-300 border-0 text-xs sm:text-sm">
+                <UBadge color="teal" variant="soft" size="md" class="bg-gradient-to-r from-teal-100 to-cyan-100 dark:from-teal-900/50 dark:to-cyan-900/50 text-teal-700 dark:text-teal-300 border-0 text-xs sm:text-sm">
                   {{ chapter.questions.length }} questions
                 </UBadge>
               </div>
