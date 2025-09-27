@@ -7,13 +7,7 @@ export default defineNuxtConfig({
     primary: 'teal',
     gray: 'slate'
   },
-  nitro: {
-    prerender: {
-      routes: ['/', '/donate']
-    }
-  },
-  ssr: false, // Disable SSR for static generation
-  target: 'static', // Enable static generation
+  ssr: true, // Enable SSR for proper routing
   app: {
     head: {
       title: 'MN CNA APP',

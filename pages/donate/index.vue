@@ -129,6 +129,7 @@ useHead({
 })
 
 
+
 const openDonationLink = (platform) => {
   // You can replace these with your actual donation links
   const donationLinks = {

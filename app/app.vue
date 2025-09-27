@@ -27,17 +27,27 @@
             >
               Home
             </UButton>
-            <UButton
-              @click="goToDonate"
-              color="amber"
-              variant="soft"
-              size="lg"
-              icon="i-heroicons-heart"
-              class="bg-gradient-to-r from-amber-100 to-yellow-100 hover:from-amber-200 hover:to-yellow-200 dark:from-amber-900/50 dark:to-yellow-900/50 text-amber-700 dark:text-amber-300 border-0 shadow-md hover:shadow-lg transition-all duration-200"
-              :ui="{ rounded: 'rounded-full' }"
-            >
-              Donate
-            </UButton>
+            
+            <!-- Simple test links -->
+            <a href="/test" class="inline-flex items-center px-4 py-2 bg-green-500 text-white rounded-full hover:bg-green-600 transition-colors text-sm">
+              🧪 Test Page
+            </a>
+            <a href="/donate" class="inline-flex items-center px-4 py-2 bg-amber-500 text-white rounded-full hover:bg-amber-600 transition-colors text-sm">
+              💝 Donate Link
+            </a>
+            
+            <NuxtLink to="/donate">
+              <UButton
+                color="amber"
+                variant="soft"
+                size="lg"
+                icon="i-heroicons-heart"
+                class="bg-gradient-to-r from-amber-100 to-yellow-100 hover:from-amber-200 hover:to-yellow-200 dark:from-amber-900/50 dark:to-yellow-900/50 text-amber-700 dark:text-amber-300 border-0 shadow-md hover:shadow-lg transition-all duration-200"
+                :ui="{ rounded: 'rounded-full' }"
+              >
+                Donate (NuxtLink)
+              </UButton>
+            </NuxtLink>
           </div>
         </div>
 
@@ -776,10 +786,6 @@ const goToHome = () => {
   navigateTo('/')
 }
 
-const goToDonate = () => {
-  console.log('Donate button clicked!')
-  router.push('/donate')
-}
 
 
 const nextQuestion = () => {
