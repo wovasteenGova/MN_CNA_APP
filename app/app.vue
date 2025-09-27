@@ -842,7 +842,15 @@ const isChoiceCorrect = (choice) => {
   if (!currentQuestion.value) return false
   
   const normalizeString = (str) => {
-    return str.replace(/\s+/g, ' ').trim().toLowerCase()
+    return str
+      .replace(/\s+/g, ' ')
+      .replace(/[()]/g, '') // Remove parentheses
+      .replace(/\btransfer\b/gi, '') // Remove "transfer" word
+      .replace(/\bslightly\s+/gi, '') // Remove "slightly"
+      .replace(/\bbehind\s+and\s+to\s+one\s+side/gi, 'beside') // Convert "behind and to one side" to "beside"
+      .replace(/\bto\s+one\s+side/gi, 'beside')
+      .trim()
+      .toLowerCase()
   }
   
   const choiceNormalized = normalizeString(choice)
@@ -861,14 +869,14 @@ const isChoiceCorrect = (choice) => {
   // Smart matching: Check if first 3-5 significant words match
   const getSignificantWords = (str) => {
     return str.split(' ')
-      .filter(word => word.length > 2 && !['the', 'and', 'for', 'are', 'but', 'not', 'you', 'all', 'can', 'had', 'her', 'was', 'one', 'our', 'out', 'day', 'get', 'has', 'him', 'his', 'how', 'its', 'may', 'new', 'now', 'old', 'see', 'two', 'who', 'boy', 'did', 'way', 'she', 'use', 'her', 'man', 'oil', 'sit', 'set', 'run', 'eat', 'far', 'sea', 'eye'].includes(word))
+      .filter(word => word.length > 2 && !['the', 'and', 'for', 'are', 'but', 'not', 'you', 'all', 'can', 'had', 'her', 'was', 'one', 'our', 'out', 'day', 'get', 'has', 'him', 'his', 'how', 'its', 'may', 'new', 'now', 'old', 'see', 'two', 'who', 'boy', 'did', 'way', 'she', 'use', 'her', 'man', 'oil', 'sit', 'set', 'run', 'eat', 'far', 'sea', 'eye', 'walk', 'apply'].includes(word))
       .slice(0, 5) // Take first 5 significant words
   }
   
   const choiceWords = getSignificantWords(choiceNormalized)
   const correctWords = getSignificantWords(correctNormalized)
   
-  // Check if at least 70% of significant words match
+  // Check if at least 60% of significant words match (lowered threshold)
   if (choiceWords.length > 0 && correctWords.length > 0) {
     const minLength = Math.min(choiceWords.length, correctWords.length)
     let matchingWords = 0
@@ -880,7 +888,7 @@ const isChoiceCorrect = (choice) => {
     })
     
     const matchPercentage = matchingWords / minLength
-    return matchPercentage >= 0.7 // 70% match threshold
+    return matchPercentage >= 0.6 // 60% match threshold (more lenient)
   }
   
   return false
