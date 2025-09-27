@@ -11,7 +11,7 @@
             Minnesota CNA Study App
           </h1>
           <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 mb-4 px-2">
-            Master your Certified Nursing Assistant exam with confidence
+            Master your Certified Nursing Assistant exam with confidence (10th edition Mosby's Textbook)
           </p>
           
           <!-- Home and Donate Buttons -->
