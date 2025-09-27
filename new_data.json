@@ -1,0 +1,2330 @@
+{
+    "questions": [
+      {
+        "chapter": "Disease Process",
+        "question": "Which complication of bedrest will result in loss of function and deformity of the joint?",
+        "answer": "Contracture",
+        "choices": [
+          "Contracture",
+          "Pressure injury",
+          "Blood clot",
+          "Postural hypotension"
+        ]
+      },
+      {
+        "chapter": "Disease Process",
+        "question": "If a contracture develops, what is the condition of the contracted muscle?",
+        "answer": "The contracted muscle is fixed into position and cannot stretch",
+        "choices": [
+          "It will require extra range-of-motion exercises to correct it",
+          "Good body alignment and positioning will relieve the complication",
+          "The contracted muscle is fixed into position and cannot stretch",
+          "It will resolve as soon as the person is able to walk and exercise"
+        ]
+      },
+      {
+        "chapter": "Infection Control",
+        "question": "What is the most important step in preventing the spread of infection?",
+        "answer": "Hand hygiene",
+        "choices": [
+          "Hand hygiene",
+          "Wearing gloves",
+          "Disinfecting surfaces",
+          "Wearing a mask"
+        ]
+      },
+      {
+        "chapter": "Infection Control",
+        "question": "A carrier animal, insect that transmits disease is called a?",
+        "answer": "Vector",
+        "choices": [
+          "Carrier",
+          "Vector",
+          "Microbe",
+          "Host"
+        ]
+      },
+      {
+        "chapter": "Data Collection",
+        "question": "What is the purpose of taking vital signs?",
+        "answer": "To assess health status and detect changes",
+        "choices": [
+          "To record daily activities",
+          "To check for injuries",
+          "To assess health status and detect changes",
+          "To identify visitors"
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "What must a nursing assistant do before leaving a task?",
+        "answer": "Make sure the resident is safe and comfortable.",
+        "choices": [
+          "Leave immediately",
+          "Notify the family",
+          "Make sure the resident is safe and comfortable.",
+          "Clean the area"
+        ]
+      },
+      {
+        "chapter": "Communication",
+        "question": "Which communication is non-verbal?",
+        "answer": "Body language",
+        "choices": [
+          "Speech",
+          "Body language",
+          "Written notes",
+          "Phone calls"
+        ]
+      }
+    ]
+  },
+
+  {
+    "questions": [
+      {
+        "chapter": "Exercise and Activity",
+        "question": "Which complication of bedrest will result in loss of function and deformity of the joint?",
+        "answer": "Contracture",
+        "choices": [
+          "Contracture",
+          "Pressure injury",
+          "Blood clot",
+          "Postural hypotension"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "If a contracture develops",
+        "answer": "The contracted muscle is fixed into position and cannot stretch",
+        "choices": [
+          "It will require extra range-of-motion exercises to correct it",
+          "Good body alignment and positioning will relieve the complication",
+          "The contracted muscle is fixed into position and cannot stretch",
+          "It will resolve as soon as the person is able to walk and exercise"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "When you are caring for a person who has orthostatic hypotension, you should",
+        "answer": "Raise the head of the bed slowly to Fowler's position",
+        "choices": [
+          "Raise the head of the bed slowly to Fowler's position",
+          "Have the person stand up and pause while the dizziness passes",
+          "Keep the bed flat when getting the person out of bed",
+          "Have the person slowly walk around to decrease dizziness"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "Which nursing care prevents complications from bedrest?",
+        "answer": "Maintaining good body alignment",
+        "choices": [
+          "Using the Fowler's position",
+          "Taking frequent vital signs",
+          "Maintaining good body alignment",
+          "Encouraging deconditioning"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "If a person sitting on the edge of the bed complains of weakness, dizziness, or spots before the eyes, you should",
+        "answer": "Have the person return to the Fowler's position",
+        "choices": [
+          "Assist the person to slowly stand",
+          "Help the person to sit in a chair or walk around",
+          "Have the person return to the Fowler's position",
+          "Tell the person that the symptoms are a normal response"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "Bed-boards are used to",
+        "answer": "Maintain alignment by preventing the mattress from sagging",
+        "choices": [
+          "Maintain alignment by preventing the mattress from sagging",
+          "Prevent plantar flexion that can lead to footdrop",
+          "Keep the hips abducted",
+          "Keep the weight of top linens off the feet"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "Which equipment do you need to obtain in order to position the person and prevent plantar flexion?",
+        "answer": "Foot-board",
+        "choices": [
+          "Foot-board",
+          "Bed cradle",
+          "Foam rubber sponge",
+          "Abduction wedge"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "To prevent the hips and legs from turning outward, you can use",
+        "answer": "Trochanter rolls",
+        "choices": [
+          "Bed cradles",
+          "Hip abduction wedges",
+          "Trochanter rolls",
+          "Splints"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "Which action would be the best to help the person to exercise?",
+        "answer": "Encourage the person to use a trapeze to move",
+        "choices": [
+          "Give the person a schedule of activities",
+          "Talk about the benefits of exercise",
+          "Encourage the person to use a trapeze to move",
+          "Leave the person alone to do self-care"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "When you move the person's joints through the range of motion, you are performing",
+        "answer": "Passive range-of-motion",
+        "choices": [
+          "Active range-of-motion",
+          "Activities of daily living",
+          "Active-assistive range-of-motion",
+          "Passive range-of-motion"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "A nursing assistant can perform range-of-motion exercises on the _______ only if allowed by center policy.",
+        "answer": "Neck",
+        "choices": [
+          "Shoulder",
+          "Neck",
+          "Hip",
+          "Knee"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "With the nurse's approval, which play activity would be the best for a child who needs shoulder ROM?",
+        "answer": "Pretending to fly like a bird",
+        "choices": [
+          "Pretending to fly like a bird",
+          "Drawing a picture of a bird",
+          "Making a bird out of clay",
+          "Playing a video game with birds"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "Pronation and supination would be included in ROM for which body part?",
+        "answer": "Forearms",
+        "choices": [
+          "Forearms",
+          "Elbows",
+          "Knees",
+          "Fingers"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "Which of these joints can be adducted and abducted?",
+        "answer": "Hip",
+        "choices": [
+          "Neck",
+          "Hip",
+          "Forearm",
+          "Knee"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "When you help a person who is weak and unsteady to walk, you should",
+        "answer": "Apply a gait (transfer) belt",
+        "choices": [
+          "Apply a gait (transfer) belt",
+          "Have the person lean on furniture for balance",
+          "Put the person in a wheelchair",
+          "Get the person a pair of crutches"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "When the person is walking with crutches, the person should wear",
+        "answer": "Clothes that fit well",
+        "choices": [
+          "Soft slippers on the feet",
+          "Clothes that fit well",
+          "Clothes that are padded",
+          "Exercise pants"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "When walking with a cane, it is held",
+        "answer": "On the strong side of the body",
+        "choices": [
+          "On the strong side of the body",
+          "On the weak side of the body",
+          "In the right hand",
+          "On the left side of the body"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "When a person is using a walker, it is",
+        "answer": "Pushed and moved 6 to 8 inches in front of the person's feet",
+        "choices": [
+          "Picked up and moved 1 to 2 inches in front of the person",
+          "Moved forward with a rocking motion",
+          "Moved first on the left side and then on the right",
+          "Pushed and moved 6 to 8 inches in front of the person's feet"
+        ]
+      },
+      {
+        "chapter": "Exercise and Activity",
+        "question": "When you are caring for a person who wears a brace, it is important to immediately report",
+        "answer": "Any redness or signs of skin breakdown when you remove the brace",
+        "choices": [
+          "How far the person can walk without assistance",
+          "Progress the person has made in independently donning the brace",
+          "The amount of mobility in joints when doing range-of-motion exercises",
+          "Any redness or signs of skin breakdown when you remove the brace"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "When you explain what to expect, this helps to reduce",
+        "answer": "Anxiety",
+        "choices": [
+          "Attention",
+          "Anxiety",
+          "Pain",
+          "Insomnia"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Which question indicates that you want the person to be comfortable?",
+        "answer": "Should I adjust your pillow?",
+        "choices": [
+          "What do you want to drink for lunch?",
+          "Did you have a nice visit with your family?",
+          "What time do you like to go to bed?",
+          "Should I adjust your pillow?"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Which question, related to pain, is a surveyor most likely to ask you?",
+        "answer": "What are the signs and symptoms of pain?",
+        "choices": [
+          "What would you do to restore a person's well-being?",
+          "What kind of medications are given for pain?",
+          "What are the signs and symptoms of pain?",
+          "How would you teach a person to relax?"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Rest and sleep are needed to",
+        "answer": "Restore well-being and energy",
+        "choices": [
+          "Restore well-being and energy",
+          "Prevent anxiety",
+          "Increase muscle strength",
+          "Prevent pain"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "CMS requirements related to comfort, rest, and sleep include",
+        "answer": "Adequate ventilation and room humidity",
+        "choices": [
+          "Only two people in a room",
+          "Bright lighting in all areas",
+          "Room temperature between 65°F and 71°F",
+          "Adequate ventilation and room humidity"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "When a person complains of pain or discomfort",
+        "answer": "You rely on what the person says about the pain or discomfort",
+        "choices": [
+          "You rely on what the person says about the pain or discomfort",
+          "It must be carefully measured to determine if the person has pain",
+          "You should compare the person's pain to others' pain",
+          "You can tell if the person has pain by the way he or she acts"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "When a person complains of pain that is nearby an area of tissue damage, which kind of pain is the person describing?",
+        "answer": "Radiating",
+        "choices": [
+          "Acute",
+          "Chronic",
+          "Radiating",
+          "Phantom"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "If the person thinks that pain is a sign of weakness, which behavior is he or she most likely to display?",
+        "answer": "Denies or ignores pain",
+        "choices": [
+          "Cries quietly and softly",
+          "Enjoys being pampered",
+          "Denies or ignores pain",
+          "Seeks support from others"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "A stoic reaction to pain is most likely to be related to",
+        "answer": "Culture",
+        "choices": [
+          "Illness",
+          "Culture",
+          "Anxiety",
+          "Attention"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "When a person has anxiety, the person",
+        "answer": "May feel increased pain",
+        "choices": [
+          "May feel increased pain",
+          "Will usually feel less pain",
+          "May deny having pain",
+          "Will usually refuse pain medication"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "When you ask a person to rate the pain on a pain scale of 0 to 10, you are asking the person to",
+        "answer": "Explain the intensity of the pain",
+        "choices": [
+          "Describe the pain",
+          "Tell you the location of the pain",
+          "Tell you the onset and duration of the pain",
+          "Explain the intensity of the pain"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "A child may deal with pain by",
+        "answer": "Restricting play or school activities",
+        "choices": [
+          "Restricting play or school activities",
+          "Describing pain to an adult",
+          "Asking for pain medications",
+          "Concentrating on reading or playing quietly"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Older persons may ignore new pain because they",
+        "answer": "May think it is related to a known health problem",
+        "choices": [
+          "Cannot verbally communicate pain",
+          "May think it is related to a known health problem",
+          "Have increased anxiety",
+          "Are used to being in pain"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "When a person tells you he or she has pain when coughing or deep breathing, this is",
+        "answer": "A factor causing pain",
+        "choices": [
+          "A factor causing pain",
+          "A measurement of the onset of pain",
+          "Words used to describe the pain",
+          "The location of the pain"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "A distraction measure to promote comfort and relieve pain may be",
+        "answer": "Listening to music or playing games",
+        "choices": [
+          "Asking the person to focus on an image",
+          "Learning to breathe deeply and slowly",
+          "Listening to music or playing games",
+          "Contracting and relaxing muscle groups"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "If the nurse has given a person pain medication, it is best if you",
+        "answer": "Wait 30 minutes before giving care",
+        "choices": [
+          "Give the person a bath",
+          "Walk the person according to the care plan",
+          "Wait 30 minutes before giving care",
+          "Give care before the medication makes the person sleepy"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Which time of day is pain most likely to seem worse for the person?",
+        "answer": "Nighttime",
+        "choices": [
+          "Upon waking",
+          "Just before meals",
+          "Late afternoon",
+          "Nighttime"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "You can promote comfort and help relieve pain when you",
+        "answer": "Provide blankets for warmth and to prevent chilling",
+        "choices": [
+          "Perform passive range-of-motion exercises",
+          "Provide blankets for warmth and to prevent chilling",
+          "Make sure the person ambulates every 2 hours",
+          "Keep the person in the supine position"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Lotion is used for back massage because it",
+        "answer": "Reduces friction during the massage",
+        "choices": [
+          "Stimulates circulation",
+          "Heals any skin breakdown",
+          "Reduces friction during the massage",
+          "Refreshes the skin"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Which condition could be a dangerous contraindication for giving a back massage?",
+        "answer": "Lung disorder",
+        "choices": [
+          "Sleep deprivation",
+          "Lung disorder",
+          "Arthritis",
+          "Insomnia"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "The best position for a back massage is",
+        "answer": "Prone position",
+        "choices": [
+          "Prone position",
+          "Supine position",
+          "Semi-Fowler's position",
+          "Fowler's position"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "When giving a back massage, the strokes",
+        "answer": "Start at the lower back and go up to the shoulders",
+        "choices": [
+          "Start at the shoulders and go up towards the neck",
+          "Are circular over the buttocks and up and down on the arms",
+          "Start at the lower back and go up to the shoulders",
+          "Are continued for at least 10 minutes"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Which action promotes rest?",
+        "answer": "Helping with elimination needs",
+        "choices": [
+          "Helping with elimination needs",
+          "Making sure the person feels happy",
+          "Allowing the person to sleep through breakfast",
+          "Giving care whenever you have extra time"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "When caring for an ill or injured person, you know the person may need more rest. You can help the person to get rest by making sure you",
+        "answer": "Provide rest periods during or after a procedure",
+        "choices": [
+          "Provide range-of-motion exercises on a set schedule",
+          "Provide rest periods during or after a procedure",
+          "Give complete hygiene and grooming measures",
+          "Spend time talking with the person to distract him or her"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Which of these occurs during sleep?",
+        "answer": "Metabolism is reduced during sleep.",
+        "choices": [
+          "The person cannot respond to stimuli.",
+          "Metabolism is reduced during sleep.",
+          "Vital signs are higher.",
+          "Arm or leg movements are voluntary"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "If you are thinking about taking a night shift job, you should consider your own",
+        "answer": "Circadian rhythm",
+        "choices": [
+          "Circadian rhythm",
+          "Bedtime rituals",
+          "Ability to relax",
+          "Preference for job tasks"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "An elderly resident who frequently gets up at 3:00 am and comes to the nursing station to visit with the staff is likely to be having",
+        "answer": "Insomnia",
+        "choices": [
+          "Sleepwalking",
+          "Agitation",
+          "Disorientation",
+          "Insomnia"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Which food would help to induce sleep if given as a snack before bedtime?",
+        "answer": "Low-fat milk",
+        "choices": [
+          "Apple slices",
+          "Low-fat milk",
+          "Tomato juice",
+          "Chocolate cookie"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Which age-group requires the least amount of sleep?",
+        "answer": "Adults, including the elderly",
+        "choices": [
+          "Newborns",
+          "Pre-schoolers",
+          "Teenagers",
+          "Adults, including the elderly"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Which person is most likely to have an increased need for sleep?",
+        "answer": "Person who was seriously injured in a car accident",
+        "choices": [
+          "Person who started a new exercise program",
+          "Person who was seriously injured in a car accident",
+          "Person who started an extreme weight loss diet",
+          "Person who was transferred to night shift"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "An increase in vital signs is expected when a person is",
+        "answer": "Having acute pain",
+        "choices": [
+          "Napping during the day",
+          "Experiencing insomnia",
+          "Sleeping soundly",
+          "Having acute pain"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Which pain report is the most serious and requires that the nurse be immediately notified?",
+        "answer": "Person is having referred pain that is felt in the left arm and shoulder",
+        "choices": [
+          "Person is having referred pain that is felt in the left arm and shoulder",
+          "Person is having phantom pain that is felt in the amputated leg",
+          "Person is having chronic pain related to joint stiffness and arthritis",
+          "Person is having radiating pain that starts in the lower back and goes to buttocks"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Persons who are ill, in pain, or receiving hospital care are at risk for",
+        "answer": "Sleep deprivation",
+        "choices": [
+          "Sleep deprivation",
+          "Sleepwalking",
+          "Insomnia",
+          "Over sedation"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "If a person has decreased reasoning; red, puffy eyes; and coordination problems, report this to the nurse because the person",
+        "answer": "Has signs and symptoms of sleep disorders",
+        "choices": [
+          "Is having a reaction to sleeping medications",
+          "Has signs and symptoms of sleep disorders",
+          "May be having episodes of uncontrolled pain",
+          "May need an increase in sleeping pills"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Which of these measures help to promote sleep?",
+        "answer": "Help persons to void or make sure incontinent persons are clean and dry.",
+        "choices": [
+          "Provide extra blankets and turn down the room temperatures",
+          "Help persons to void or make sure incontinent persons are clean and dry.",
+          "Follow bedtime routines to make sure everyone is in bed at the scheduled time",
+          "Offer everyone a cup of coffee or tea with crackers at bedtime."
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "When a person with Alzheimer's disease wanders at night, you can assist her by",
+        "answer": "Being calm and quiet and helping her back to her room",
+        "choices": [
+          "Giving her a cup of coffee or tea",
+          "Turning on the TV in the room to distract her",
+          "Being calm and quiet and helping her back to her room",
+          "Explaining to her that it is night and she needs to go to bed"
+        ]
+      },
+      {
+        "chapter": "Comfort, Rest, and Sleep",
+        "question": "Which nursing measures would be best to promote sleep for a 9-year old child having trouble falling asleep in the strange hospital environment?",
+        "answer": "Read a favorite story to her",
+        "choices": [
+          "Hold the child and rock her",
+          "Help her take a warm bath",
+          "Darken the room and close the door",
+          "Read a favorite story to her"
+        ]
+      }
+    ]
+  },
+
+  {
+    "questions": [
+      {
+        "chapter": "Personal Care",
+        "question": "If a person requires help with personal hygiene, you can find out what needs he/she has by",
+        "answer": "Following the nurse's directions and the care plan",
+        "choices": [
+          "Following the nurse's directions and the care plan",
+          "Asking the person about hygiene preferences",
+          "Asking other nursing assistants that know the person",
+          "Making decisions based on your experience"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "You should help residents with personal hygiene",
+        "answer": "Whenever help is needed",
+        "choices": [
+          "According to the assignment sheet",
+          "Only in the morning",
+          "Whenever help is needed",
+          "When you have time"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When giving personal hygiene, you need to remember to protect the person's right to",
+        "answer": "Privacy and personal choice",
+        "choices": [
+          "Privacy and personal choice",
+          "Care and security of personal possessions",
+          "Activities",
+          "Environment"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "Which of these is done every time you assist with hygiene measures throughout the day?",
+        "answer": "Assisting with washing the face and hand hygiene",
+        "choices": [
+          "Assisting with dressing and hair care",
+          "Assisting with elimination",
+          "Assisting with activity",
+          "Assisting the person change clothes"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "Older persons usually need a complete bath or shower only twice a week because",
+        "answer": "Dry skin often occurs with aging.",
+        "choices": [
+          "They are less active.",
+          "They are often ill.",
+          "They have increased perspiration.",
+          "Dry skin often occurs with aging."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "If a person has dry skin, which of these will help keep it soft?",
+        "answer": "Creams, lotions, and oils",
+        "choices": [
+          "Soaps",
+          "Creams, lotions, and oils",
+          "Powders",
+          "Deodorants and antiperspirants"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "If a person with dementia resists bathing, you may",
+        "answer": "Try giving the bath during a time of day when the person is calmer.",
+        "choices": [
+          "Quickly perform the bath and limit the cleaning.",
+          "Speak firmly in a loud voice while giving clear instructions.",
+          "Try giving the bath during a time of day when the person is calmer.",
+          "Have a co-worker hold the person so that you are not harmed."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When choosing skin care products for bathing, you should use",
+        "answer": "Products the person prefers, whenever possible",
+        "choices": [
+          "A mild, low cost soap or body wash",
+          "Products the person prefers, whenever possible",
+          "Bath oils that have a light fresh odor",
+          "Creams and lotions that moisturize"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "The water temperature for a complete bed bath is usually between 110°F and 115°F (43.3°C and 46.1°C) for adults. For older persons, the temperature",
+        "answer": "May need to be lower",
+        "choices": [
+          "Should be between 110°F and 115°F (43.3°C and 46.1°C)",
+          "May need to be lower",
+          "Is safer if it is cool to the touch",
+          "May need to be warmer"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When applying powder",
+        "answer": "Sprinkle a small amount of powder onto your hands or a cloth.",
+        "choices": [
+          "Shake or sprinkle the powder directly on the person.",
+          "Sprinkle a small amount of powder onto your hands or a cloth.",
+          "Apply a thick layer of powder.",
+          "You should never put powder on the feet."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When helping a bariatric person with hygiene, it is important to",
+        "answer": "Dry under skin folds to prevent skin breakdown.",
+        "choices": [
+          "Use only water to prevent dry or irritated skin.",
+          "Dry under skin folds to prevent skin breakdown.",
+          "Work alone to protect the person's privacy.",
+          "Apply a thick layer of powder in skin folds."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "A complete bed bath is given to persons who",
+        "answer": "Are weak from illness or surgery",
+        "choices": [
+          "Ask for a complete bath",
+          "Are being cared for at home",
+          "Are weak from illness or surgery",
+          "Are newly admitted to a facility"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When you are giving a complete bed bath, the bed is made",
+        "answer": "After the bath is completed",
+        "choices": [
+          "Only if needed",
+          "Before the bath begins",
+          "After the bath is completed",
+          "After the person gets out of bed"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "Offering the bedpan, urinal, commode, or bathroom is",
+        "answer": "Done before the bath begins",
+        "choices": [
+          "Done before the bath begins",
+          "Done after the bath ends",
+          "Not related to bath time",
+          "Done to prevent incontinence while bathing"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "During the bed bath, the bath blanket is placed",
+        "answer": "Over the person after the top linens are removed",
+        "choices": [
+          "Over the person after the top linens are removed",
+          "Under the top linens",
+          "Over the person before top linens are removed",
+          "Under the person"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "Do not use soap when washing",
+        "answer": "Around the eyes",
+        "choices": [
+          "The face, ears, and neck",
+          "Around the eyes",
+          "The abdomen",
+          "The perineal area"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "How do you avoid exposing the person when washing the chest?",
+        "answer": "Place a towel over the chest cross-wise.",
+        "choices": [
+          "Keep the bath blanket over the area.",
+          "Keep the top linens over the chest.",
+          "Place a towel over the chest cross-wise.",
+          "Make sure the curtains are closed."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "Bath water is changed",
+        "answer": "When it becomes cool and soapy",
+        "choices": [
+          "Every 5 minutes during the bath",
+          "When it becomes cool and soapy",
+          "Only once during the bath",
+          "After washing the face, ears, and neck"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "Which person may respond well to a towel bath?",
+        "answer": "A person who has dementia",
+        "choices": [
+          "A person who has dementia",
+          "A person who is frequently incontinent",
+          "A person who has skin breakdown",
+          "A person who needs a partial bath"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "A partial bath involves bathing",
+        "answer": "The face, hands, underarms, back, buttocks, and perineal area",
+        "choices": [
+          "The body parts that are soiled",
+          "The face, hands, underarms, back, buttocks, and perineal area",
+          "The face and hands",
+          "The perineal area"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When giving any type of bath, you should",
+        "answer": "Provide for privacy.",
+        "choices": [
+          "Wash from the dirtiest to the cleanest areas.",
+          "Strive to remove all microbes.",
+          "Provide for privacy.",
+          "Decide what is best for the person."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "A tub bath should not last longer than",
+        "answer": "20 minutes",
+        "choices": [
+          "10 minutes",
+          "15 minutes",
+          "20 minutes",
+          "30 minutes"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "If a person is weak or unsteady, which equipment should be used to help the person accomplish bathing or showering?",
+        "answer": "Shower chair",
+        "choices": [
+          "Shower chair",
+          "Transfer belt",
+          "Wheelchair",
+          "Stretcher"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "Which of these would be a time management strategy to use when giving a tub bath or shower?",
+        "answer": "Ask a co-worker to make the person's bed while you give the bath or shower.",
+        "choices": [
+          "Take the person to the shower room and then collect your equipment.",
+          "Ask a co-worker to give the bath or shower for you.",
+          "Ask a co-worker to make the person's bed while you give the bath or shower.",
+          "Clean and disinfect the tub or shower before returning the person to his or her room."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When assisting with a tub bath or shower, which of these steps is first?",
+        "answer": "Put the occupied sign on the door.",
+        "choices": [
+          "Help the person undress and remove footwear.",
+          "Assist or transport the person to the tub or shower room.",
+          "Put the occupied sign on the door.",
+          "Place a rubber bath math in the tub or on the shower floor."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When cleaning the perineal area",
+        "answer": "Work from the urethral area to the anal area (front to back, top to bottom).",
+        "choices": [
+          "Use a liberal amount of mild soap and flush with plenty of water.",
+          "Work from the anal area to the urethral area (back to front, bottom to top).",
+          "Work from the urethral area to the anal area (front to back, top to bottom).",
+          "Work from the dirtiest area to the cleanest area."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When gathering equipment for perineal care, you will need",
+        "answer": "At least 4 washcloths",
+        "choices": [
+          "1 washcloth and toilet paper",
+          "2 washcloths",
+          "3 Washcloths",
+          "At least 4 washcloths"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When giving perineal care to a male, you",
+        "answer": "Retract the foreskin if he is uncircumcised.",
+        "choices": [
+          "Retract the foreskin if he is uncircumcised.",
+          "Wash from the scrotum to the tip of the penis.",
+          "Use 1 bag bath for the entire procedure.",
+          "Leave the foreskin retracted after finishing the care."
+        ]
+      }
+    ]
+  }
+
+  {
+  "questions": [
+    {
+      "chapter": "Infection Control",
+      "question": "You wear gloves to give perineal care. When you are done, you",
+      "answer": "Remove the gloves and practice hand hygiene",
+      "choices": [
+        "Keep the gloves on to make the bed",
+        "Remove the gloves and practice hand hygiene",
+        "Use the gloves to clean the equipment",
+        "Keep the gloves on until you leave the room"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "A person has a draining wound. When do you wear gloves?",
+      "answer": "When contact with the wound or drainage is likely",
+      "choices": [
+        "When contact with the wound or drainage is likely",
+        "When you are in the person's room",
+        "When you are within 3 feet of the person",
+        "At all times when giving care"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "A mask",
+      "answer": "Is contaminated when moist",
+      "choices": [
+        "Can be reused",
+        "Is contaminated when moist",
+        "Is worn for comfort",
+        "Prevents eye contact with the person"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Eye protection is worn",
+      "answer": "When splashing body fluids is likely",
+      "choices": [
+        "When splashing body fluids is likely",
+        "When giving care to any person",
+        "When you cannot wash your hands",
+        "When wearing gloves"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Which statement about gowns is correct?",
+      "answer": "Gowns are used once",
+      "choices": [
+        "Gowns are used once",
+        "Gowns are shared between patients",
+        "Gowns can be worn for an entire shift",
+        "Gowns do not need to be removed when leaving the room"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Isolation gowns",
+      "answer": "Open in the back",
+      "choices": [
+        "Open in the front",
+        "Open in the back",
+        "Are made of cloth",
+        "Are reusable"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "You are assisting a nurse with a sterile procedure. You",
+      "answer": "Consider the outer 1 inch of the sterile field contaminated",
+      "choices": [
+        "Can use the sterile field after the nurse is done",
+        "Can place clean items on the sterile field",
+        "Consider the outer 1 inch of the sterile field contaminated",
+        "Can talk over the sterile field"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "When cleaning equipment",
+      "answer": "Work from clean areas to dirty areas",
+      "choices": [
+        "Work from dirty areas to clean areas",
+        "Work from clean areas to dirty areas",
+        "Work from bottom to top",
+        "Work in circular motions only"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "You are going to disinfect a bed-side commode. You",
+      "answer": "Wear personal protective equipment",
+      "choices": [
+        "Wear personal protective equipment",
+        "Need only gloves",
+        "Do not need PPE if using a disinfectant",
+        "Need only a gown"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Contact Precautions are ordered for a person. You need a stethoscope to take a blood pressure. You should",
+      "answer": "Use a stethoscope from the person's room",
+      "choices": [
+        "Use your own stethoscope",
+        "Use a stethoscope from the person's room",
+        "Use any stethoscope as long as you wipe it off",
+        "Borrow a stethoscope from another nursing assistant"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "A person is on Contact Precautions. Which is correct?",
+      "answer": "Gloves and gowns are worn",
+      "choices": [
+        "A mask is worn",
+        "Gloves and gowns are worn",
+        "Goggles are worn",
+        "Special air flow is required"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "A person is on Droplet Precautions. You",
+      "answer": "Wear a mask when within 3 feet of the person",
+      "choices": [
+        "Wear a mask at all times in the room",
+        "Wear a mask when within 3 feet of the person",
+        "Need a special mask (respirator)",
+        "Do not need any special PPE"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "A person is on Airborne Precautions. Which is correct?",
+      "answer": "The person is in a private room",
+      "choices": [
+        "The person is in a private room",
+        "The door can remain open",
+        "A surgical mask gives enough protection",
+        "You do not need any PPE"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "You have been fit-tested for an N95 respirator. Which is correct?",
+      "answer": "You use the same make, model, style, and size that was fit-tested",
+      "choices": [
+        "You can use any N95 respirator",
+        "You use the same make, model, style, and size that was fit-tested",
+        "You can share with a co-worker of the same size",
+        "You can use it for multiple persons"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "A surgical mask",
+      "answer": "Protects against large droplets",
+      "choices": [
+        "Filters small airborne particles",
+        "Protects against large droplets",
+        "Requires fit testing",
+        "Is the same as an N95 respirator"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Protective (reverse) isolation",
+      "answer": "Protects the person from microbes",
+      "choices": [
+        "Protects others from the person",
+        "Protects the person from microbes",
+        "Is the same as Contact Precautions",
+        "Requires a private bathroom"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Blood-borne Pathogen Standard requires",
+      "answer": "Free hepatitis B vaccination for employees",
+      "choices": [
+        "Free hepatitis B vaccination for employees",
+        "Hepatitis B vaccination at employee expense",
+        "Annual HIV testing",
+        "Monthly blood work"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "You have an exposure incident involving blood. Which is correct?",
+      "answer": "Tell your supervisor immediately",
+      "choices": [
+        "Wash the area and continue working",
+        "Report the incident at the end of your shift",
+        "Tell your supervisor immediately",
+        "Wait to see if you develop symptoms"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Standard Precautions involve",
+      "answer": "Treating all blood and body fluids as infectious",
+      "choices": [
+        "Treating all blood and body fluids as infectious",
+        "Only wearing gloves with known infections",
+        "Only washing hands before patient care",
+        "Using special isolation rooms"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "The most important measure to prevent infection is",
+      "answer": "Hand hygiene",
+      "choices": [
+        "Wearing gloves",
+        "Hand hygiene",
+        "Wearing a mask",
+        "Using disinfectants"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Alcohol-based hand rubs",
+      "answer": "Are used when hands are not visibly soiled",
+      "choices": [
+        "Are used when hands are not visibly soiled",
+        "Replace the need for soap and water",
+        "Are not effective against all microbes",
+        "Should be used for 5 seconds"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "When washing hands with soap and water",
+      "answer": "Rub hands together for at least 20 seconds",
+      "choices": [
+        "Rub hands together for at least 10 seconds",
+        "Rub hands together for at least 15 seconds",
+        "Rub hands together for at least 20 seconds",
+        "Rub hands together for at least 30 seconds"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Microbes enter the body through",
+      "answer": "The respiratory system",
+      "choices": [
+        "Only open wounds",
+        "The respiratory system",
+        "Only the mouth",
+        "Only the eyes"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Which person is at risk for infection?",
+      "answer": "An older person",
+      "choices": [
+        "A healthy teenager",
+        "An older person",
+        "A person who exercises daily",
+        "A person with good nutrition"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Healthcare-associated infections",
+      "answer": "Result from defects in infection control",
+      "choices": [
+        "Are always present when admitted",
+        "Result from defects in infection control",
+        "Cannot be prevented",
+        "Only occur in surgery"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "A person has a urinary tract infection. This is",
+      "answer": "A local infection",
+      "choices": [
+        "A local infection",
+        "A systemic infection",
+        "Not an infection",
+        "A healthcare-associated infection"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Sepsis",
+      "answer": "Is a systemic infection",
+      "choices": [
+        "Is a local infection",
+        "Is a systemic infection",
+        "Only affects the blood",
+        "Is not serious"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Microbes can be spread by",
+      "answer": "Direct contact",
+      "choices": [
+        "Direct contact",
+        "Talking",
+        "Looking at a person",
+        "Being in the same building"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "An example of direct contact is",
+      "answer": "Touching a person",
+      "choices": [
+        "Being in the same room",
+        "Touching a person",
+        "Using the same equipment",
+        "Breathing the same air"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "An example of indirect contact is",
+      "answer": "Using contaminated equipment",
+      "choices": [
+        "Touching a person",
+        "Using contaminated equipment",
+        "Talking to a person",
+        "Being near a person"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Respiratory droplets",
+      "answer": "Travel about 3 feet",
+      "choices": [
+        "Travel about 1 foot",
+        "Travel about 3 feet",
+        "Travel about 6 feet",
+        "Travel throughout the building"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Which statement about TB is correct?",
+      "answer": "TB is spread through airborne droplets",
+      "choices": [
+        "TB is spread through direct contact",
+        "TB is spread through airborne droplets",
+        "TB cannot be prevented",
+        "TB only affects the lungs"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "A reservoir",
+      "answer": "Is where microbes live and grow",
+      "choices": [
+        "Is where microbes live and grow",
+        "Prevents infection",
+        "Kills microbes",
+        "Is always a person"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Which is a portal of entry?",
+      "answer": "A cut in the skin",
+      "choices": [
+        "Intact skin",
+        "A cut in the skin",
+        "Healthy tissue",
+        "A closed wound"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "A susceptible host",
+      "answer": "Can become infected",
+      "choices": [
+        "Cannot become infected",
+        "Can become infected",
+        "Is immune to all infections",
+        "Never gets sick"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "To break the chain of infection, you must",
+      "answer": "Eliminate any link in the chain",
+      "choices": [
+        "Eliminate all links in the chain",
+        "Eliminate any link in the chain",
+        "Focus only on hand washing",
+        "Only worry about direct contact"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "The Occupational Safety and Health Administration requires",
+      "answer": "Exposure control plans",
+      "choices": [
+        "Exposure control plans",
+        "Daily health checks",
+        "Weekly infection training",
+        "Monthly blood tests"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Personal protective equipment",
+      "answer": "Creates a barrier between you and pathogens",
+      "choices": [
+        "Is optional in most cases",
+        "Creates a barrier between you and pathogens",
+        "Is only needed in isolation rooms",
+        "Replaces the need for hand hygiene"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "When putting on PPE, which item goes on first?",
+      "answer": "Gown",
+      "choices": [
+        "Gloves",
+        "Mask",
+        "Gown",
+        "Eye protection"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "When removing PPE, which item is removed first?",
+      "answer": "Gloves",
+      "choices": [
+        "Gloves",
+        "Gown",
+        "Mask",
+        "Eye protection"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Gloves are changed",
+      "answer": "Between tasks on the same person",
+      "choices": [
+        "Only when torn",
+        "Between tasks on the same person",
+        "Every 2 hours",
+        "Only when visibly soiled"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "You can wear the same gloves to",
+      "answer": "Perform one task",
+      "choices": [
+        "Perform multiple tasks on the same person",
+        "Perform one task",
+        "Work with several people",
+        "Work for your entire shift"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "A mask protects against",
+      "answer": "Droplets",
+      "choices": [
+        "All microbes",
+        "Droplets",
+        "Direct contact",
+        "Contaminated surfaces"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "You are wearing a mask. To talk to a person, you should",
+      "answer": "Keep the mask on",
+      "choices": [
+        "Remove the mask",
+        "Pull the mask down",
+        "Keep the mask on",
+        "Turn away from the person"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Which area of a sterile field is considered contaminated?",
+      "answer": "The outer 1-inch edge",
+      "choices": [
+        "The entire field",
+        "The outer 1-inch edge",
+        "Only the corners",
+        "The center area"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "A sterile field becomes contaminated when",
+      "answer": "You turn your back on it",
+      "choices": [
+        "It is opened",
+        "You turn your back on it",
+        "You look at it",
+        "30 minutes pass"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "To open a sterile package",
+      "answer": "Open the flap away from you first",
+      "choices": [
+        "Open the flap toward you first",
+        "Open the flap away from you first",
+        "Open any flap first",
+        "Tear the package open"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "When cleaning equipment, you should",
+      "answer": "Rinse first in cold water",
+      "choices": [
+        "Rinse first in hot water",
+        "Rinse first in cold water",
+        "Use only hot soapy water",
+        "Never rinse equipment"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Disinfection",
+      "answer": "Kills pathogens",
+      "choices": [
+        "Kills all microbes",
+        "Kills pathogens",
+        "Only cleans surfaces",
+        "Is the same as sterilization"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "A tuberculin skin test",
+      "answer": "Determines if you have been infected with TB bacteria",
+      "choices": [
+        "Prevents TB infection",
+        "Determines if you have been infected with TB bacteria",
+        "Treats TB",
+        "Cures TB"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "If your tuberculin skin test is positive, you",
+      "answer": "Had contact with TB bacteria",
+      "choices": [
+        "Have active TB",
+        "Had contact with TB bacteria",
+        "Are immune to TB",
+        "Need immediate treatment"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Laundry is contaminated with blood. You should",
+      "answer": "Wear gloves and other needed PPE",
+      "choices": [
+        "Handle it with bare hands",
+        "Wear only gloves",
+        "Wear gloves and other needed PPE",
+        "Refuse to handle it"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Contaminated laundry is",
+      "answer": "Bagged where it was used",
+      "choices": [
+        "Mixed with clean laundry",
+        "Bagged where it was used",
+        "Shaken before bagging",
+        "Sorted in patient rooms"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "Which statement about sharps is correct?",
+      "answer": "Broken glass is placed in a sharps container",
+      "choices": [
+        "Needles are recapped after use",
+        "Sharps are placed in regular trash",
+        "Broken glass is placed in a sharps container",
+        "Sharps containers are emptied when full"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "You are accidentally stuck by a needle. You should",
+      "answer": "Immediately report the incident",
+      "choices": [
+        "Continue working",
+        "Immediately report the incident",
+        "Report it at the end of your shift",
+        "Only report it if you feel sick"
+      ]
+    },
+    {
+      "chapter": "Infection Control",
+      "question": "After a needle-stick injury, you should",
+      "answer": "Wash the area with soap and water",
+      "choices": [
+        "Apply pressure to stop bleeding",
+        "Wash the area with soap and water",
+        "Apply alcohol to the area",
+        "Wait to see if infection occurs"
+      ]
+    }
+  ]
+},
+
+{
+    "questions": [
+      {
+        "chapter": "Role and Responsibility",
+        "question": "How do nursing assistants contribute to the efforts to reduce health care costs?",
+        "answer": "Staff mixing reduces costs by including RNs, LPN/LVNs and nursing assistants.",
+        "choices": [
+          "Nursing assistants can perform nurse duties during the nurse shortages.",
+          "Staff mixing reduces costs by including RNs, LPN/LVNs and nursing assistants.",
+          "Nursing assistants have the lowest salaries; therefore, the hospitals save money.",
+          "Many nursing assistants use their experience and eventually become nurses."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "What should you do if you believe that a nurse is performing an action that violates the state's nurse practice act?",
+        "answer": "Go up the chain of command and give the facts to the nurse's supervisor.",
+        "choices": [
+          "There is nothing you can do, because the nurse has more authority than you do.",
+          "Watch to see if the nurse's actions are causing harm to anyone.",
+          "Call the Board of Nursing and make an anonymous report.",
+          "Go up the chain of command and give the facts to the nurse's supervisor."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "Which nurse is performing an action that violates the nurse practice act?",
+        "answer": "Nurse C comes to work and is under the influence of alcohol and drugs.",
+        "choices": [
+          "Nurse A recently graduated and seems unsure about the facility policies.",
+          "Nurse B makes many unreasonable demands on the nursing assistants.",
+          "Nurse C comes to work and is under the influence of alcohol and drugs.",
+          "Nurse D is tired after working dayshift, but agrees to stay and cover night shift"
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "How are the state's nurse practice acts relevant to nursing assistants?",
+        "answer": "Roles, tasks, actions, and education of nursing assistants can be affected.",
+        "choices": [
+          "RNs and LPNs/LVNs are affected; nursing assistants are not affected.",
+          "Nurse practice acts bestow protection from liability for nursing assistants.",
+          "Roles, tasks, actions, and education of nursing assistants can be affected.",
+          "Nurse practice acts are less relevant for nursing assistants than facility policies."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "If you do something beyond the legal limits of your role, you could be",
+        "answer": "Practicing nursing without a license",
+        "choices": [
+          "Protected by the nurse practice act",
+          "Practicing nursing without a license",
+          "Protected by the nurse who supervises your work",
+          "Accused of a criminal act"
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "Nursing assistants can face disciplinary charges and possible loss of certification for",
+        "answer": "Failing to maintain confidentiality of information",
+        "choices": [
+          "Being absent from work frequently",
+          "Failing to maintain confidentiality of information",
+          "Refusing to care for a certain patient",
+          "Having frequent arguments with co-workers"
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "How many hours of instruction are required by OBRA for nursing assistant training and competency evaluation programs?",
+        "answer": "75",
+        "choices": [
+          "16",
+          "75",
+          "120",
+          "200"
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "In a training program for nursing assistants, which skill would you be expected to master?",
+        "answer": "Positioning people in bed",
+        "choices": [
+          "Interpreting vital signs",
+          "Positioning people in bed",
+          "Transcribing the doctor's orders",
+          "Drawing blood for laboratory testing"
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "What should you say first when you meet a patient in your student clinical experience?",
+        "answer": "Hello. My name is Ms. Jones. I am a student nursing assistant.",
+        "choices": [
+          "Hello. Please state your name and may I see your identification band.",
+          "Hello. Are you Mr. Smith? I will be caring for you today.",
+          "Hello. My name is Ms. Jones. I am a student nursing assistant.",
+          "Hello. Would you like me to call you Mr. Smith or use your first name?"
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "According to the nursing assistant registry, if you had an incident of misappropriation, what rights do you have?",
+        "answer": "Right to include a statement disputing the findings",
+        "choices": [
+          "Right to include a statement disputing the findings",
+          "Right to have record expunged for good behavior",
+          "Right to sue the nursing assistant registry",
+          "Right to have incident withheld from employers"
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "How does the nursing assistant registry benefit you as an individual?",
+        "answer": "Shows that you successfully completed the state's approved NATCEP",
+        "choices": [
+          "Records dates and times of your excellent work ethic",
+          "Is a permanent record of your interactions with patients",
+          "Allows you the freedom to move from state to state for work",
+          "Shows that you successfully completed the state's approved NATCEP"
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "OBRA requires that re-training and a new competency evaluation test must be taken if you have not worked as a certified nursing assistant for",
+        "answer": "24 months",
+        "choices": [
+          "24 months",
+          "5 years",
+          "1 year",
+          "6 months"
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "Which action is best if a mandatory in-service training is scheduled during the middle of your shift?",
+        "answer": "Plan with co-workers; some do patient care while others attend the training",
+        "choices": [
+          "Tell the nurse that you can't go because of your patient care duties",
+          "Ask the in-service trainer to provide you copies of the handouts",
+          "Explain to the patients that you must go and to call the nurse as needed",
+          "Plan with co-workers; some do patient care while others attend the training"
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "Which action could result in a discipline with a possible loss of certification?",
+        "answer": "You go to a patient's home after he is discharged and provide care without the supervision of a nurse.",
+        "choices": [
+          "You go to a patient's home after he is discharged and provide care without the supervision of a nurse.",
+          "You inform the nurse that you recorded the vital signs on the wrong person's medical records.",
+          "There is family emergency in the middle of your shift and you tell the nurse you have to leave.",
+          "A confused resident rubs your breasts while you are helping him to complete morning hygiene."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "Which circumstance is most important for you to report to the supervising nurse?",
+        "answer": "You overhear another nursing assistant asking a resident to lend her money for her child's school fees.",
+        "choices": [
+          "A new nursing assistant is unable to complete her duties and is frequently asking for your help.",
+          "The off-going nursing assistant frequently fails to leave the work areas tidy and asks you to do the cleaning.",
+          "You overhear another nursing assistant asking a resident to lend her money for her child's school fees.",
+          "An experienced nursing assistant, gives you tips about how to interact with confused residents."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "As a nursing assistant, you never give medications unless",
+        "answer": "You have completed a state-approved medication assistant training program",
+        "choices": [
+          "The nurse is busy and asks you to give the medications",
+          "The person is in the shower and the nurse leaves the medications at the bedside",
+          "You have completed a state-approved medication assistant training program",
+          "You are feeding the person and the nurse asks you to mix the medications with the food."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "You are alone in the nurses' station and you answer the phone. Dr. Smith begins to give you verbal orders. You should",
+        "answer": "Politely give your name and title and then promptly get the nurse.",
+        "choices": [
+          "Tell the doctor that you are not allowed to take phone orders.",
+          "Politely give your name and title and then promptly get the nurse.",
+          "Quickly write down the orders and promptly give them to the nurse.",
+          "Politely tell her to call back later when the nurse is there."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "The nurse asks you to assist him as he changes sterile dressings. You should",
+        "answer": "Assist him as needed",
+        "choices": [
+          "Assist him as needed",
+          "Tell him you cannot assist",
+          "Offer to change the dressings",
+          "Report him to the director of nursing."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "Which member of the health care staff can tell the person or family a diagnosis or prescribe treatments?",
+        "answer": "Physician",
+        "choices": [
+          "Director of nursing",
+          "RN",
+          "Physician",
+          "Experienced nursing assistant"
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "The nurse asks you carry out a task that you do not know how to do. You should",
+        "answer": "Promptly explain to the nurse why you cannot carry out the task",
+        "choices": [
+          "Ignore the order because it would not be safe for you to carry out the task",
+          "Promptly explain to the nurse why you cannot carry out the task",
+          "Look up information about the task and then do your best to do the task",
+          "Ask another nursing assistant to show you how to carry out the task."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "The nurse knows you are an EMT in addition to being a CNA. She is very busy and asks if you will start an IV on a patient. You should",
+        "answer": "Politely tell her that you cannot start an IV as a CNA",
+        "choices": [
+          "Politely tell her that you cannot start an IV as a CNA",
+          "Start the IV since you start IVs routinely as an EMT",
+          "Ask her to spend a few minutes supervising you as you start the IV",
+          "Report her to the director of nursing services."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "If you are giving care in a home, you may be expected to",
+        "answer": "Provide personal care and prepare meals",
+        "choices": [
+          "Give medications and physical therapy treatments",
+          "Provide personal care and prepare meals",
+          "Do any household chores that the person is unable to do",
+          "Drive the person's car so the person can shop or run errands."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "Which action should you take if an elderly home care patient offers you extra money if you will help his wife to paint the house?",
+        "answer": "Consult the supervising nurse about what to do and say.",
+        "choices": [
+          "Make private arrangements to do the work on your days off.",
+          "Consult the supervising nurse about what to do and say.",
+          "Help him to locate a reliable handyman to help the wife.",
+          "Tell him that it would be illegal for you to accept any money."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "Which information must be immediately reported to the nurse?",
+        "answer": "Resident's blood pressure and pulse are higher than usual.",
+        "choices": [
+          "Resident is upset because he didn't get any coffee with breakfast.",
+          "Resident wants to take a tub bath, but his doctor has ordered showering.",
+          "Resident's blood pressure and pulse are higher than usual.",
+          "Resident's daily weight was recorded on the flowsheet."
+        ]
+      },
+      {
+        "chapter": "Role and Responsibility",
+        "question": "When you read a job description, you should not take a job if it requires you to",
+        "answer": "Function beyond your training limits",
+        "choices": [
+          "Carry out duties you do not like to do",
+          "Function beyond your training limits",
+          "Maintain required certification",
+          "Attend in-service training."
+        ]
+      }
+    ]
+  }
+,
+
+{
+    "questions": [
+      {
+        "chapter": "Medical Terminology",
+        "question": "If a person points to the left side of his body below the umbilicus and tells you he has pain, you will tell the nurse he has pain in the",
+        "answer": "Left lower quadrant",
+        "choices": [
+          "Right upper quadrant",
+          "Left lower quadrant",
+          "Left upper quadrant",
+          "Right lower quadrant"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "When describing the position of body parts, the hands and fingers are",
+        "answer": "Distal",
+        "choices": [
+          "Medial",
+          "Distal",
+          "Proximal",
+          "Posterior"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "For a person who has paraplegia, which type of assistance would you be prepared to offer?",
+        "answer": "Assisting in moving the legs",
+        "choices": [
+          "Opening a milk carton",
+          "Reminding to use the hearing aid",
+          "Assisting in moving the legs",
+          "Fastening the shirt and pants"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "The nurse tells you that the patient has occasional episodes of cyanosis that need to be reported. What do you watch for?",
+        "answer": "Bluish hue to the skin",
+        "choices": [
+          "Bluish hue to the skin",
+          "Tremors in the hands",
+          "Difficulty swallowing",
+          "Blood in the urine"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "In caring for a person who has fecal incontinence, which equipment will you obtain?",
+        "answer": "Disposable pads for the bed",
+        "choices": [
+          "Disposable pads for the bed",
+          "Blood pressure cuff",
+          "Measurement cylinder",
+          "Thermometer"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "Which type of pain and discomfort is the person likely to report if he or she has a gastrointestinal disorder?",
+        "answer": "Abdominal pain",
+        "choices": [
+          "Headache",
+          "Joint stiffness",
+          "Abdominal pain",
+          "Backache"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "Which vital sign data indicates that the person is having tachycardia?",
+        "answer": "130 beats/min",
+        "choices": [
+          "130/80 mmHg",
+          "103°F (39.4°C)",
+          "40 breaths/min",
+          "130 beats/min"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "The nurse tells you to immediately report hematemesis. What do you watch for?",
+        "answer": "Blood in the person's vomit",
+        "choices": [
+          "Blood in the person's vomit",
+          "Redness and warmth of the skin",
+          "Bleeding at a wound site",
+          "Red or pinkish urine"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "Which patient is mostly likely to need a glucometer measurement?",
+        "answer": "Patient has diabetes mellitus",
+        "choices": [
+          "Patient has a tracheostomy",
+          "Patient has a urinary tract infection",
+          "Patient had a stroke last year",
+          "Patient has diabetes mellitus"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "Which type of equipment will you use to protect yourself in caring for a person who has dermatitis?",
+        "answer": "Gloves",
+        "choices": [
+          "Radiation badge",
+          "Eyeshield",
+          "Gloves",
+          "Mask"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "A person has rhinorrhea. Which type of equipment will you obtain?",
+        "answer": "Box of tissues",
+        "choices": [
+          "Stethoscope",
+          "Box of tissues",
+          "Extra laundry bags",
+          "Otoscope"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "The nurse tells you that the person has risk for polyuria. Which question do you ask to clarify your duties?",
+        "answer": "How often should I measure the urine output?",
+        "choices": [
+          "Should I apply the gait belt for ambulation?",
+          "How often should I measure the urine output?",
+          "How often should I perform range-of-motion?",
+          "Should I cut up the food in smaller bites?"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "If you are caring for a person who has dysphagia, you would",
+        "answer": "Ask the nurse for feeding instructions",
+        "choices": [
+          "Allow extra time for communication",
+          "Ask the nurse for feeding instructions",
+          "Assist the person to the bathroom",
+          "Watch for vaginal bleeding"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "Which condition is the most serious and needs to be immediately reported?",
+        "answer": "Dyspnea",
+        "choices": [
+          "Dyspnea",
+          "Polyphagia",
+          "Dermatitis",
+          "Otitis"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "Which person is most likely to have dysmenorrhea?",
+        "answer": "23-year old female",
+        "choices": [
+          "3-year old female",
+          "23-year old female",
+          "84-year old male",
+          "55-year old male"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "Anemia is a condition of the",
+        "answer": "Blood",
+        "choices": [
+          "Heart",
+          "Lungs",
+          "Blood",
+          "Bones"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "If a person has pharyngitis, which question would you ask to clarify your duties?",
+        "answer": "What types of food and fluids should I offer?",
+        "choices": [
+          "What types of food and fluids should I offer?",
+          "How often should I offer to help with toileting?",
+          "How often should I take the vital signs?",
+          "Is the person on fall precautions?"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "Choose the correct spelling for slow heart rate:",
+        "answer": "Bradycardia",
+        "choices": [
+          "Bradecardia",
+          "Bradycardia",
+          "Bradacordia",
+          "Bradicardia"
+        ]
+      }
+    ]
+  }
+,
+{
+    "questions": [
+      {
+        "chapter": "Personal Care",
+        "question": "Which of these is done every time you assist with hygiene measures throughout the day?",
+        "answer": "Assisting with washing the face and hand hygiene",
+        "choices": [
+          "Assisting with washing the face and hand hygiene",
+          "Assisting with dressing and hair care",
+          "Assisting with elimination",
+          "Assisting the person change clothes"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "Older persons usually need a complete bath or shower only twice a week because",
+        "answer": "Dry skin often occurs with aging.",
+        "choices": [
+          "They are less active.",
+          "They are often ill.",
+          "They have increased perspiration.",
+          "Dry skin often occurs with aging."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "If a person has dry skin, which of these will help keep it soft?",
+        "answer": "Creams, lotions, and oils",
+        "choices": [
+          "Soaps",
+          "Creams, lotions, and oils",
+          "Powders",
+          "Deodorants and antiperspirants"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "If a person with dementia resists bathing, you may",
+        "answer": "Try giving the bath during a time of day when the person is calmer.",
+        "choices": [
+          "Quickly perform the bath and limit the cleaning.",
+          "Speak firmly in a loud voice while giving clear instructions.",
+          "Try giving the bath during a time of day when the person is calmer.",
+          "Have a co-worker hold the person so that you are not harmed."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When choosing skin care products for bathing, you should use",
+        "answer": "Products the person prefers, whenever possible",
+        "choices": [
+          "A mild, low cost soap or body wash",
+          "Products the person prefers, whenever possible",
+          "Bath oils that have a light fresh odor",
+          "Creams and lotions that moisturize"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "The water temperature for a complete bed bath is usually between 110°F and 115°F (43.3°C and 46.1°C) for adults. For older persons, the temperature",
+        "answer": "May need to be lower",
+        "choices": [
+          "Should be between 110°F and 115°F (43.3°C and 46.1°C)",
+          "May need to be lower",
+          "Is safer if it is cool to the touch",
+          "May need to be warmer"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When applying powder",
+        "answer": "Sprinkle a small amount of powder onto your hands or a cloth.",
+        "choices": [
+          "Shake or sprinkle the powder directly on the person.",
+          "Sprinkle a small amount of powder onto your hands or a cloth.",
+          "Apply a thick layer of powder.",
+          "You should never put powder on the feet."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When helping a bariatric person with hygiene, it is important to",
+        "answer": "Dry under skin folds to prevent skin breakdown.",
+        "choices": [
+          "Use only water to prevent dry or irritated skin.",
+          "Dry under skin folds to prevent skin breakdown.",
+          "Work alone to protect the person's privacy.",
+          "Apply a thick layer of powder in skin folds."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "A complete bed bath is given to persons who",
+        "answer": "Are weak from illness or surgery",
+        "choices": [
+          "Ask for a complete bath",
+          "Are being cared for at home",
+          "Are weak from illness or surgery",
+          "Are newly admitted to a facility"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When you are giving a complete bed bath, the bed is made",
+        "answer": "After the bath is completed",
+        "choices": [
+          "Only if needed",
+          "Before the bath begins",
+          "After the bath is completed",
+          "After the person gets out of bed"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "Offering the bedpan, urinal, commode, or bathroom is",
+        "answer": "Done before the bath begins",
+        "choices": [
+          "Done before the bath begins",
+          "Done after the bath ends",
+          "Not related to bath time",
+          "Done to prevent incontinence while bathing"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "During the bed bath, the bath blanket is placed",
+        "answer": "Over the person after the top linens are removed",
+        "choices": [
+          "Over the person after the top linens are removed",
+          "Under the top linens",
+          "Over the person before top linens are removed",
+          "Under the person"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "Do not use soap when washing",
+        "answer": "Around the eyes",
+        "choices": [
+          "The face, ears, and neck",
+          "Around the eyes",
+          "The abdomen",
+          "The perineal area"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "How do you avoid exposing the person when washing the chest?",
+        "answer": "Place a towel over the chest cross-wise.",
+        "choices": [
+          "Keep the bath blanket over the area.",
+          "Keep the top linens over the chest.",
+          "Place a towel over the chest cross-wise.",
+          "Make sure the curtains are closed."
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "Bath water is changed",
+        "answer": "When it becomes cool and soapy",
+        "choices": [
+          "Every 5 minutes during the bath",
+          "When it becomes cool and soapy",
+          "Only once during the bath",
+          "After washing the face, ears, and neck"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "Which person may respond well to a towel bath?",
+        "answer": "A person who has dementia",
+        "choices": [
+          "A person who has dementia",
+          "A person who is frequently incontinent",
+          "A person who has skin breakdown",
+          "A person who needs a partial bath"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "A partial bath involves bathing",
+        "answer": "The face, hands, underarms, back, buttocks, and perineal area",
+        "choices": [
+          "The body parts that are soiled",
+          "The face, hands, underarms, back, buttocks, and perineal area",
+          "The face and hands",
+          "The perineal area"
+        ]
+      },
+      {
+        "chapter": "Personal Care",
+        "question": "When giving any type of bath, you should",
+        "answer": "Provide for privacy.",
+        "choices": [
+          "Wash from the dirtiest to the cleanest areas.",
+          "Strive to remove all microbes.",
+          "Provide for privacy.",
+          "Decide what is best for the person."
+        ]
+      }
+    ]
+  }
+,
+
+
+
+
+  
+  
