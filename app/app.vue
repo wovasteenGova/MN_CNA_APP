@@ -844,7 +844,7 @@ const isChoiceCorrect = (choice) => {
   const normalizeString = (str) => {
     return str
       .replace(/\s+/g, ' ')
-      .replace(/[()]/g, '') // Remove parentheses
+      .replace(/[().]/g, '') // Remove parentheses and periods
       .replace(/\btransfer\b/gi, '') // Remove "transfer" word
       .replace(/\bslightly\s+/gi, '') // Remove "slightly"
       .replace(/\bbehind\s+and\s+to\s+one\s+side/gi, 'beside') // Convert "behind and to one side" to "beside"

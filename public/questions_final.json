@@ -715,9 +715,9 @@
         "question": "How should you assist a weak or unsteady person when walking?",
         "answer": "Apply a gait (transfer) belt and walk slightly behind and to one side.",
         "choices": [
+          "Apply a gait (transfer) belt and walk slightly behind and to one side",
           "Allow person to lean on furniture",
           "Push the person in a wheelchair",
-          "Apply gait belt and walk beside the person",
           "Walk ahead of the person"
         ],
         "chapter": "Unknown"
@@ -873,17 +873,6 @@
           "Hip",
           "Forearm",
           "Knee"
-        ],
-        "chapter": "Unknown"
-      },
-      {
-        "question": "When you help a person who is weak and unsteady to walk, you should",
-        "answer": "Apply a gait (transfer) belt",
-        "choices": [
-          "Apply a gait (transfer) belt",
-          "Have the person lean on furniture for balance",
-          "Put the person in a wheelchair",
-          "Get the person a pair of crutches"
         ],
         "chapter": "Unknown"
       },
