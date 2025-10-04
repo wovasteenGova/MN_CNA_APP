@@ -861,9 +861,101 @@ const isChoiceCorrect = (choice) => {
     return true
   }
   
-  // Try partial containment match
-  if (correctNormalized.includes(choiceNormalized) || choiceNormalized.includes(correctNormalized)) {
-    return true
+  // Medical terminology exceptions - be more strict with medical terms
+  const medicalTerms = [
+    'serosanguineous', 'sanguineous', 'serous', 'purulent', 
+    'excoriation', 'abrasion', 'laceration', 'contusion',
+    'hematoma', 'ecchymosis', 'petechiae', 'macule', 'papule', 'vesicle', 'pustule',
+    'edema', 'erythema', 'cyanosis', 'pallor', 'jaundice',
+    'hypertension', 'hypotension', 'tachycardia', 'bradycardia',
+    'dyspnea', 'apnea', 'tachypnea', 'bradypnea',
+    'hyperthermia', 'hypothermia', 'pyrexia', 'febrile',
+    'anorexia', 'nausea', 'vomiting', 'diarrhea', 'constipation',
+    'incontinence', 'retention', 'dysuria', 'hematuria',
+    'syncope', 'seizure', 'convulsion', 'tremor',
+    'paralysis', 'paresis', 'spasticity', 'flaccidity',
+    'dementia', 'delirium', 'confusion', 'disorientation',
+    'depression', 'anxiety', 'agitation', 'lethargy',
+    'infection', 'inflammation', 'sepsis', 'shock',
+    'fracture', 'dislocation', 'sprain', 'strain',
+    'ulcer', 'gangrene', 'necrosis', 'ischemia',
+    'thrombosis', 'embolism', 'hemorrhage', 'bleeding',
+    'anemia', 'leukemia', 'thrombocytopenia', 'coagulation',
+    'diabetes', 'hypoglycemia', 'hyperglycemia', 'ketoacidosis',
+    'pneumonia', 'bronchitis', 'asthma', 'copd',
+    'myocardial', 'infarction', 'angina', 'arrhythmia',
+    'stroke', 'cerebrovascular', 'transient', 'ischemic',
+    'alzheimer', 'parkinson', 'multiple', 'sclerosis',
+    'arthritis', 'osteoporosis', 'osteomyelitis', 'bursitis',
+    'cancer', 'tumor', 'malignant', 'benign', 'metastasis',
+    'chemotherapy', 'radiation', 'surgery', 'anesthesia',
+    'medication', 'drug', 'dose', 'administration',
+    'side', 'effect', 'adverse', 'reaction', 'allergy',
+    'contraindication', 'interaction', 'toxicity', 'overdose',
+    // Add stage numbers and time periods
+    'stage', 'hour', 'minute', 'second', 'time', 'duration',
+    'pathogen', 'non-pathogen', 'contamination', 'cross-contamination',
+    'circumcised', 'uncircumcised', 'am', 'pm', 'day', 'care',
+    'active', 'assistive', 'range', 'motion', 'exercise',
+    'flexion', 'extension', 'dorsiflexion', 'hyperextension',
+    'nrem', 'rem', 'sleep', 'gastritis', 'gastritiss'
+  ]
+  const hasMedicalTerms = medicalTerms.some(term => 
+    choiceNormalized.includes(term) || correctNormalized.includes(term)
+  )
+  
+  // For medical terms, only allow exact matches or very specific exceptions
+  if (hasMedicalTerms) {
+    // Specific algorithm exceptions for known problematic cases
+    const exceptions = [
+      // Handle gait belt variations
+      { 
+        choice: 'Apply a gait belt and walk slightly behind and to one side', 
+        answer: 'Apply a gait (transfer) belt and walk slightly behind and to one side', 
+        shouldMatch: true 
+      },
+      { 
+        choice: 'Apply a gait belt', 
+        answer: 'Apply a gait (transfer) belt', 
+        shouldMatch: true 
+      },
+      { 
+        choice: 'Apply a gait (transfer) belt and walk slightly behind and to one side', 
+        answer: 'Apply a gait belt and walk slightly behind and to one side', 
+        shouldMatch: true 
+      },
+      { 
+        choice: 'Apply a gait (transfer) belt', 
+        answer: 'Apply a gait belt', 
+        shouldMatch: true 
+      }
+    ]
+    
+    // Check if this is an exception case
+    const isException = exceptions.some(exception => 
+      normalizeString(exception.choice) === choiceNormalized && 
+      normalizeString(exception.answer) === correctNormalized
+    )
+    
+    if (isException) {
+      const exception = exceptions.find(ex => 
+        normalizeString(ex.choice) === choiceNormalized && 
+        normalizeString(ex.answer) === correctNormalized
+      )
+      return exception.shouldMatch
+    }
+    
+    // For medical terms without exceptions, only allow exact matches
+    return false
+  }
+  
+  // For non-medical terms, use the original smart matching logic
+  // Try partial containment match (but be more careful)
+  const lengthRatio = Math.min(choiceNormalized.length, correctNormalized.length) / Math.max(choiceNormalized.length, correctNormalized.length)
+  if (lengthRatio > 0.8) { // Only if strings are similar in length
+    if (correctNormalized.includes(choiceNormalized) || choiceNormalized.includes(correctNormalized)) {
+      return true
+    }
   }
   
   // Smart matching: Check if first 3-5 significant words match
@@ -876,7 +968,7 @@ const isChoiceCorrect = (choice) => {
   const choiceWords = getSignificantWords(choiceNormalized)
   const correctWords = getSignificantWords(correctNormalized)
   
-  // Check if at least 60% of significant words match (lowered threshold)
+  // Check if at least 80% of significant words match (higher threshold for non-medical terms)
   if (choiceWords.length > 0 && correctWords.length > 0) {
     const minLength = Math.min(choiceWords.length, correctWords.length)
     let matchingWords = 0
@@ -888,7 +980,7 @@ const isChoiceCorrect = (choice) => {
     })
     
     const matchPercentage = matchingWords / minLength
-    return matchPercentage >= 0.6 // 60% match threshold (more lenient)
+    return matchPercentage >= 0.8 // 80% match threshold (more strict)
   }
   
   return false
