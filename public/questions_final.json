@@ -10241,5 +10241,835 @@
         ]
       }
     ]
+  },
+  {
+    "chapter": "Comprehensive CNA Review",
+    "questions": [
+      {
+        "chapter": "Wound Care",
+        "question": "What type of drainage is thin, clear, and watery fluid containing plasma from the blood?",
+        "answer": "Serous drainage",
+        "choices": [
+          "Serous drainage",
+          "Sanguineous drainage",
+          "Serosanguineous drainage",
+          "Purulent drainage"
+        ]
+      },
+      {
+        "chapter": "Wound Care",
+        "question": "What type of drainage consists mostly of fresh blood, making it bright red in color?",
+        "answer": "Sanguineous drainage",
+        "choices": [
+          "Serous drainage",
+          "Sanguineous drainage",
+          "Serosanguineous drainage",
+          "Purulent drainage"
+        ]
+      },
+      {
+        "chapter": "Wound Care",
+        "question": "What type of drainage is a mix of blood and serous fluid, appearing as thin, watery, and light pink or pale red?",
+        "answer": "Serosanguineous drainage",
+        "choices": [
+          "Serous drainage",
+          "Sanguineous drainage",
+          "Serosanguineous drainage",
+          "Purulent drainage"
+        ]
+      },
+      {
+        "chapter": "Wound Care",
+        "question": "What type of drainage is thick, often with a yellow, green, tan, or brown color, and usually signals infection?",
+        "answer": "Purulent drainage",
+        "choices": [
+          "Serous drainage",
+          "Sanguineous drainage",
+          "Serosanguineous drainage",
+          "Purulent drainage"
+        ]
+      },
+      {
+        "chapter": "Pressure Injuries",
+        "question": "What is a pressure injury that develops from the improper use of the nursing process called?",
+        "answer": "Avoidable pressure injury",
+        "choices": [
+          "Avoidable pressure injury",
+          "Unavoidable pressure injury",
+          "Colonized pressure injury",
+          "Infected pressure injury"
+        ]
+      },
+      {
+        "chapter": "Pressure Injuries",
+        "question": "What is an area where the bone sticks out or projects from the flat surface of the body called?",
+        "answer": "Bony prominence",
+        "choices": [
+          "Bony prominence",
+          "Pressure point",
+          "Both A and B",
+          "Eschar"
+        ]
+      },
+      {
+        "chapter": "Pressure Injuries",
+        "question": "What is dead tissue that is shed from the skin, usually light colored, soft, and moist called?",
+        "answer": "Slough",
+        "choices": [
+          "Slough",
+          "Eschar",
+          "Necrosis",
+          "Colonization"
+        ]
+      },
+      {
+        "chapter": "Pressure Injuries",
+        "question": "What is thick, leathery dead tissue that may be loose or adhered to the skin, often black or brown?",
+        "answer": "Eschar",
+        "choices": [
+          "Slough",
+          "Eschar",
+          "Purulent drainage",
+          "Necrosis"
+        ]
+      },
+      {
+        "chapter": "Pressure Injuries",
+        "question": "What occurs when layers of the skin rub against each other, causing underlying tissues to move and stretch?",
+        "answer": "Shear",
+        "choices": [
+          "Friction",
+          "Shear",
+          "Pressure",
+          "Eschar"
+        ]
+      },
+      {
+        "chapter": "Pressure Injuries",
+        "question": "What is the presence of bacteria on the wound surface or in wound tissue without signs of infection called?",
+        "answer": "Colonized",
+        "choices": [
+          "Colonized",
+          "Infected",
+          "Contaminated",
+          "Sterile"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "When taking the radial pulse, where do you place your fingers?",
+        "answer": "Two fingers on the thumb side of the wrist",
+        "choices": [
+          "Two fingers on the thumb side of the wrist",
+          "Two fingers on the pinky side of the wrist",
+          "Three fingers on the thumb side of the wrist",
+          "One finger on the thumb side of the wrist"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "You may count the radial pulse for 30 seconds and multiply by 2 if:",
+        "answer": "The pulse is regular",
+        "choices": [
+          "The pulse is regular",
+          "The pulse is irregular",
+          "The person is on cardiac medications",
+          "The person is sleeping"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "An apical-radial pulse is taken by:",
+        "answer": "Having one staff member take the apical pulse and a second staff member take the radial pulse at the same time",
+        "choices": [
+          "Taking the apical pulse first, then the radial pulse",
+          "Having one staff member take the apical pulse and a second staff member take the radial pulse at the same time",
+          "Taking the radial pulse for 30 seconds, then the apical pulse",
+          "Taking only the apical pulse"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "Why may the blood pressure be higher in older persons?",
+        "answer": "Blood pressure increases with age",
+        "choices": [
+          "Blood pressure increases with age",
+          "Older persons are more anxious",
+          "Medications cause higher blood pressure",
+          "Older persons have faster heart rates"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "The blood pressure may not be taken in the left arm if:",
+        "answer": "Person has a dialysis access site in the left arm",
+        "choices": [
+          "Person has a dialysis access site in the left arm",
+          "Person is left-handed",
+          "Person prefers the right arm",
+          "Person has a watch on the left wrist"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "When taking a blood pressure with an aneroid manometer, where do you place the stethoscope diaphragm?",
+        "answer": "Over the brachial artery at the inner aspect of the elbow",
+        "choices": [
+          "Over the radial artery at the wrist",
+          "Over the brachial artery at the inner aspect of the elbow",
+          "Over the carotid artery at the neck",
+          "Over the femoral artery at the groin"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "When getting ready to take the blood pressure, position the person's arm:",
+        "answer": "Level with the heart",
+        "choices": [
+          "Above the heart",
+          "Below the heart",
+          "Level with the heart",
+          "Position does not matter"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "The blood pressure cuff is inflated beyond the point where you last felt the radial pulse by:",
+        "answer": "30 mm Hg",
+        "choices": [
+          "10 mm Hg",
+          "20 mm Hg",
+          "30 mm Hg",
+          "40 mm Hg"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "What is a heart rate less than 60 beats per minute called?",
+        "answer": "Bradycardia",
+        "choices": [
+          "Tachycardia",
+          "Bradycardia",
+          "Normal heart rate",
+          "Arrhythmia"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "What is the normal body temperature range for oral site?",
+        "answer": "97.6 to 99.6°F",
+        "choices": [
+          "96.6 to 98.6°F",
+          "97.6 to 99.6°F",
+          "98.6 to 100.6°F",
+          "95.6 to 97.6°F"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "How would you describe a pulse where beats are not spaced evenly?",
+        "answer": "Irregular",
+        "choices": [
+          "Regular",
+          "Irregular",
+          "Bounding",
+          "Thready"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "When an apical pulse is taken, the pulse is counted for:",
+        "answer": "1 minute",
+        "choices": [
+          "15 seconds",
+          "30 seconds",
+          "1 minute",
+          "2 minutes"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "The blood pressure cuff is applied over the:",
+        "answer": "Brachial artery",
+        "choices": [
+          "Radial artery",
+          "Brachial artery",
+          "Carotid artery",
+          "Femoral artery"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "The cuff and measuring device used to measure blood pressure is:",
+        "answer": "Sphygmomanometer",
+        "choices": [
+          "Stethoscope",
+          "Sphygmomanometer",
+          "Thermometer",
+          "Pulse oximeter"
+        ]
+      },
+      {
+        "chapter": "Preventing Infections",
+        "question": "What does asepsis mean?",
+        "answer": "Being free of disease-producing microbes",
+        "choices": [
+          "Being free of disease-producing microbes",
+          "Having no bacteria present",
+          "Using antibiotics",
+          "Sterilizing all equipment"
+        ]
+      },
+      {
+        "chapter": "Preventing Infections",
+        "question": "What is an autoclave used for?",
+        "answer": "A pressure-steam sterilizer to destroy all microbial life",
+        "choices": [
+          "To clean equipment",
+          "A pressure-steam sterilizer to destroy all microbial life",
+          "To disinfect surfaces",
+          "To store sterile equipment"
+        ]
+      },
+      {
+        "chapter": "Preventing Infections",
+        "question": "What does HBV stand for and what does it affect?",
+        "answer": "Hepatitis B Virus - infects the liver",
+        "choices": [
+          "Human Blood Virus - affects blood cells",
+          "Hepatitis B Virus - infects the liver",
+          "Human Body Virus - affects multiple organs",
+          "Hepatic Blood Virus - affects circulation"
+        ]
+      },
+      {
+        "chapter": "Preventing Infections",
+        "question": "What does PPE stand for?",
+        "answer": "Personal Protective Equipment",
+        "choices": [
+          "Personal Protective Equipment",
+          "Professional Protection Equipment",
+          "Pathogen Prevention Equipment",
+          "Personal Prevention Equipment"
+        ]
+      },
+      {
+        "chapter": "Preventing Infections",
+        "question": "What are sharps?",
+        "answer": "Objects like needles and scalpels that can penetrate the skin",
+        "choices": [
+          "Sharp instruments used in surgery",
+          "Objects like needles and scalpels that can penetrate the skin",
+          "Pointed medical tools",
+          "Broken equipment"
+        ]
+      },
+      {
+        "chapter": "Preventing Infections",
+        "question": "According to Standard Precautions, which of the following are considered potentially infectious?",
+        "answer": "All body fluids, secretions, and excretions except sweat",
+        "choices": [
+          "Only blood and urine",
+          "All body fluids, secretions, and excretions except sweat",
+          "Only blood and feces",
+          "Only visible blood"
+        ]
+      },
+      {
+        "chapter": "Daily Hygiene & Bathing",
+        "question": "During the bed bath, when is the bath blanket placed?",
+        "answer": "Over the person after the top linens are removed",
+        "choices": [
+          "Before removing top linens",
+          "Over the person after the top linens are removed",
+          "After the bath is complete",
+          "Under the person before starting"
+        ]
+      },
+      {
+        "chapter": "Daily Hygiene & Bathing",
+        "question": "Which type of bath may work well for a person with dementia?",
+        "answer": "Towel bath",
+        "choices": [
+          "Complete bed bath",
+          "Shower",
+          "Towel bath",
+          "Tub bath"
+        ]
+      },
+      {
+        "chapter": "Resident Care",
+        "question": "Changes in a man's larynx due to aging causes the voice to:",
+        "answer": "Become higher pitched",
+        "choices": [
+          "Become lower pitched",
+          "Become higher pitched",
+          "Stay the same",
+          "Become louder"
+        ]
+      },
+      {
+        "chapter": "Resident Care",
+        "question": "If a resident experiences a seizure, what is the responsibility of the nursing assistant?",
+        "answer": "Make sure the resident is safe by moving furniture from around the resident",
+        "choices": [
+          "Hold the resident down",
+          "Put something in the resident's mouth",
+          "Make sure the resident is safe by moving furniture from around the resident",
+          "Leave the resident alone"
+        ]
+      },
+      {
+        "chapter": "Resident Care",
+        "question": "When Betty was diagnosed with breast cancer and tells her family it's not true, she is in which stage of grief?",
+        "answer": "Stage 1 - Denial",
+        "choices": [
+          "Stage 1 - Denial",
+          "Stage 2 - Anger",
+          "Stage 3 - Bargaining",
+          "Stage 4 - Depression"
+        ]
+      },
+      {
+        "chapter": "Resident Care",
+        "question": "Residents in an assisted living facility are usually:",
+        "answer": "More independent and do not need skilled care",
+        "choices": [
+          "More independent and do not need skilled care",
+          "Require constant skilled nursing care",
+          "Bedridden",
+          "Need total assistance with ADLs"
+        ]
+      },
+      {
+        "chapter": "Resident Care",
+        "question": "When you see a resident on the floor, this finding is recorded as:",
+        "answer": "Objective data",
+        "choices": [
+          "Subjective data",
+          "Objective data",
+          "Incident report only",
+          "Not documented"
+        ]
+      },
+      {
+        "chapter": "Communication",
+        "question": "When communicating verbally with residents, their perception of you may be altered by:",
+        "answer": "The tone of your voice",
+        "choices": [
+          "Your uniform",
+          "The tone of your voice",
+          "Your height",
+          "Your age"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "Factors that affect a resident's safety in a LTC facility include:",
+        "answer": "Impaired mobility, decreased sensory awareness, and poor decision making",
+        "choices": [
+          "Age only",
+          "Impaired mobility, decreased sensory awareness, and poor decision making",
+          "Medication use only",
+          "Diet and exercise only"
+        ]
+      },
+      {
+        "chapter": "Infection Control",
+        "question": "Adhering to best infection control practices, after removing the resident from the bedpan, the NA should:",
+        "answer": "Assist the resident to wash and dry their hands",
+        "choices": [
+          "Wash only their own hands",
+          "Assist the resident to wash and dry their hands",
+          "Apply hand sanitizer to the resident",
+          "Document the procedure"
+        ]
+      },
+      {
+        "chapter": "Infection Control",
+        "question": "You are caring for a resident who has a diagnosis of Clostridium difficile (C. diff). You understand:",
+        "answer": "The resident will have their own equipment such as blood pressure cuff",
+        "choices": [
+          "You can share equipment between residents",
+          "The resident will have their own equipment such as blood pressure cuff",
+          "Standard precautions are not needed",
+          "The resident can eat in the dining room"
+        ]
+      },
+      {
+        "chapter": "Infection Control",
+        "question": "One of the residents has been diagnosed with influenza. You understand the resident will be placed on:",
+        "answer": "Droplet precautions",
+        "choices": [
+          "Contact precautions",
+          "Airborne precautions",
+          "Droplet precautions",
+          "Standard precautions only"
+        ]
+      },
+      {
+        "chapter": "Medical Conditions",
+        "question": "What is weakness of the muscles in the feet and ankles that interferes with the ability to flex the ankles and walk normally?",
+        "answer": "Foot drop",
+        "choices": [
+          "Plantar fasciitis",
+          "Foot drop",
+          "Contracture",
+          "Atrophy"
+        ]
+      },
+      {
+        "chapter": "Medical Conditions",
+        "question": "What is muscle atrophy?",
+        "answer": "A decrease in the size or wasting away of the muscle",
+        "choices": [
+          "An increase in muscle size",
+          "A decrease in the size or wasting away of the muscle",
+          "Muscle spasms",
+          "Muscle inflammation"
+        ]
+      },
+      {
+        "chapter": "Medical Conditions",
+        "question": "What does NPO refer to?",
+        "answer": "Nothing by mouth",
+        "choices": [
+          "New procedure order",
+          "Nothing by mouth",
+          "No pain observed",
+          "Nursing plan of care"
+        ]
+      },
+      {
+        "chapter": "Resident Care",
+        "question": "When shaving a resident who is on oxygen you should:",
+        "answer": "Use a disposable safety razor while the oxygen is on",
+        "choices": [
+          "Turn off the oxygen first",
+          "Use an electric razor only",
+          "Use a disposable safety razor while the oxygen is on",
+          "Wait until oxygen is discontinued"
+        ]
+      },
+      {
+        "chapter": "Behavioral Management",
+        "question": "During de-escalation, it is most important to:",
+        "answer": "Increase the client's personal space",
+        "choices": [
+          "Get closer to the client",
+          "Increase the client's personal space",
+          "Touch the client to calm them",
+          "Raise your voice"
+        ]
+      },
+      {
+        "chapter": "Basic Needs",
+        "question": "The first basic need of every resident according to Maslow's Hierarchy is:",
+        "answer": "Physiological needs",
+        "choices": [
+          "Safety needs",
+          "Physiological needs",
+          "Love and belonging",
+          "Self-esteem"
+        ]
+      },
+      {
+        "chapter": "Infection Control",
+        "question": "AIDS is a disease transmitted by:",
+        "answer": "Sharing needles and syringes",
+        "choices": [
+          "Casual contact",
+          "Sharing needles and syringes",
+          "Airborne transmission",
+          "Touching contaminated surfaces"
+        ]
+      },
+      {
+        "chapter": "Regulatory Compliance",
+        "question": "A survey team is made up of:",
+        "answer": "Trained healthcare professionals",
+        "choices": [
+          "Facility administrators only",
+          "Trained healthcare professionals",
+          "Family members",
+          "Resident volunteers"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "During an evacuation, residents nearest the fire or danger are moved first, followed by:",
+        "answer": "Ambulatory residents",
+        "choices": [
+          "Staff members",
+          "Ambulatory residents",
+          "Visitors",
+          "Equipment"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "When checking for safety issues, a survey team will observe for:",
+        "answer": "Actual or potential hazards",
+        "choices": [
+          "Only actual hazards",
+          "Only potential hazards",
+          "Actual or potential hazards",
+          "Staff uniforms"
+        ]
+      },
+      {
+        "chapter": "Medical Conditions",
+        "question": "A resident who experiences increased confusion, restlessness, and agitation as daylight ends may be experiencing:",
+        "answer": "Sundowning",
+        "choices": [
+          "Delirium",
+          "Sundowning",
+          "Depression",
+          "Anxiety"
+        ]
+      },
+      {
+        "chapter": "Resident Care",
+        "question": "The safest position for providing mouth care of the comatose resident is:",
+        "answer": "Head of the bed raised with head to one side",
+        "choices": [
+          "Flat on back",
+          "Head of the bed raised with head to one side",
+          "Sitting upright",
+          "Side-lying flat"
+        ]
+      },
+      {
+        "chapter": "Person-Centered Care",
+        "question": "Person-centered care focuses on:",
+        "answer": "Personal preferences important to the resident",
+        "choices": [
+          "Staff schedules",
+          "Personal preferences important to the resident",
+          "Facility policies only",
+          "Cost efficiency"
+        ]
+      },
+      {
+        "chapter": "Resident Care",
+        "question": "When working with a visually impaired resident, the CNA should:",
+        "answer": "Use an imaginary clock to orient the resident to new surroundings",
+        "choices": [
+          "Speak louder",
+          "Use an imaginary clock to orient the resident to new surroundings",
+          "Touch the resident without warning",
+          "Rearrange furniture frequently"
+        ]
+      },
+      {
+        "chapter": "Elimination",
+        "question": "You are going to apply a condom catheter. The catheter is:",
+        "answer": "Rolled onto the penis",
+        "choices": [
+          "Inserted into the urethra",
+          "Rolled onto the penis",
+          "Taped to the abdomen",
+          "Applied with adhesive"
+        ]
+      },
+      {
+        "chapter": "Elimination",
+        "question": "Constipation is:",
+        "answer": "Passage of hard, dry stool",
+        "choices": [
+          "Frequent loose stools",
+          "Passage of hard, dry stool",
+          "Inability to urinate",
+          "Abdominal pain"
+        ]
+      },
+      {
+        "chapter": "Elimination",
+        "question": "What is the preferred position for giving an enema?",
+        "answer": "Sims or left side-lying position",
+        "choices": [
+          "Supine position",
+          "Fowler's position",
+          "Sims or left side-lying position",
+          "Prone position"
+        ]
+      },
+      {
+        "chapter": "Nutrition",
+        "question": "Diabetes meal planning involves:",
+        "answer": "Consistency in what is eaten and when",
+        "choices": [
+          "Eating whatever the resident wants",
+          "Consistency in what is eaten and when",
+          "Skipping meals",
+          "High sugar intake"
+        ]
+      },
+      {
+        "chapter": "Nutrition",
+        "question": "Water requirements increase with:",
+        "answer": "Hot weather",
+        "choices": [
+          "Cold weather",
+          "Hot weather",
+          "Sleeping",
+          "Inactivity"
+        ]
+      },
+      {
+        "chapter": "Measurements",
+        "question": "Which is NOT a guideline for measuring weight and height?",
+        "answer": "Use different scales for daily, weekly, and monthly weights",
+        "choices": [
+          "Use the same scale each time",
+          "Use different scales for daily, weekly, and monthly weights",
+          "Weigh at the same time of day",
+          "Have resident wear similar clothing"
+        ]
+      },
+      {
+        "chapter": "Specimen Collection",
+        "question": "You are collecting a stool specimen. Which is correct?",
+        "answer": "Use tongue blade and transfer 2 tablespoons of feces from bedpan to specimen container",
+        "choices": [
+          "Use your gloved hand to collect the specimen",
+          "Use tongue blade and transfer 2 tablespoons of feces from bedpan to specimen container",
+          "Collect the entire bowel movement",
+          "Mix the specimen with toilet water"
+        ]
+      },
+      {
+        "chapter": "Circulation",
+        "question": "After surgery a patient wears elastic stockings. Which is incorrect?",
+        "answer": "The person sits up in the chair while the stockings are off",
+        "choices": [
+          "Check for wrinkles in the stockings",
+          "The person sits up in the chair while the stockings are off",
+          "Remove stockings at least twice a day",
+          "Check circulation after applying"
+        ]
+      },
+      {
+        "chapter": "Circulation",
+        "question": "Bed rest places the person at risk for:",
+        "answer": "Blood clots",
+        "choices": [
+          "High blood pressure",
+          "Blood clots",
+          "Increased appetite",
+          "Better circulation"
+        ]
+      },
+      {
+        "chapter": "Pressure Injuries",
+        "question": "The recommended position for preventing and treating pressure injuries is:",
+        "answer": "A 30-degree lateral position",
+        "choices": [
+          "Flat on back",
+          "A 30-degree lateral position",
+          "Sitting upright 90 degrees",
+          "Prone position"
+        ]
+      },
+      {
+        "chapter": "Positioning",
+        "question": "A resident is having difficulty breathing. Which position would help the resident breathe more easily?",
+        "answer": "Semi-Fowler's and Fowler's",
+        "choices": [
+          "Flat supine",
+          "Prone",
+          "Semi-Fowler's and Fowler's",
+          "Trendelenburg"
+        ]
+      },
+      {
+        "chapter": "Scope of Practice",
+        "question": "A resident requires mechanical ventilation. Which should you politely refuse to do?",
+        "answer": "Suction the person's airway",
+        "choices": [
+          "Provide mouth care",
+          "Suction the person's airway",
+          "Reposition the resident",
+          "Report changes to the nurse"
+        ]
+      },
+      {
+        "chapter": "Rehabilitation",
+        "question": "The process of restoring the person to his or her highest possible level of function is:",
+        "answer": "Rehabilitation",
+        "choices": [
+          "Restorative care",
+          "Rehabilitation",
+          "Both A and B",
+          "Physical therapy only"
+        ]
+      },
+      {
+        "chapter": "Orthopedic Care",
+        "question": "A resident fractured her right hip. After surgery you must:",
+        "answer": "Prevent external rotation of the right hip",
+        "choices": [
+          "Allow any position for comfort",
+          "Prevent external rotation of the right hip",
+          "Keep legs crossed",
+          "Encourage bending at the hip"
+        ]
+      },
+      {
+        "chapter": "Medical Conditions",
+        "question": "What are the major complications of coronary artery disease?",
+        "answer": "Angina, myocardial infarction, irregular heartbeat, and sudden death",
+        "choices": [
+          "Headache and fatigue",
+          "Angina, myocardial infarction, irregular heartbeat, and sudden death",
+          "Weight loss and fever",
+          "Skin rash and itching"
+        ]
+      },
+      {
+        "chapter": "Medical Conditions",
+        "question": "In diabetes, the body lacks or is unable to use:",
+        "answer": "Insulin",
+        "choices": [
+          "Glucose",
+          "Insulin",
+          "Oxygen",
+          "Hemoglobin"
+        ]
+      },
+      {
+        "chapter": "Measurements",
+        "question": "You are weighing an infant. Which is correct?",
+        "answer": "Cover the baby with a blanket for warmth",
+        "choices": [
+          "Leave the baby uncovered",
+          "Cover the baby with a blanket for warmth",
+          "Weigh with diaper on",
+          "Weigh while baby is sleeping in crib"
+        ]
+      },
+      {
+        "chapter": "Emergency Care",
+        "question": "What is the correct sequence in adult CPR?",
+        "answer": "Check for safety, check for response, check for breathing/pulse, give CPR",
+        "choices": [
+          "Give CPR immediately",
+          "Check for safety, check for response, check for breathing/pulse, give CPR",
+          "Check pulse only",
+          "Call 911 and wait"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "Quadriplegia (also known as tetraplegia) is:",
+        "answer": "Paralysis that affects all four limbs and the body from the neck down",
+        "choices": [
+          "Paralysis of one limb",
+          "Paralysis from the waist down",
+          "Paralysis that affects all four limbs and the body from the neck down",
+          "Partial paralysis of legs"
+        ]
+      }
+    ]
   }
 ]
