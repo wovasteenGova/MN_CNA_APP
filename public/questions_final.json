@@ -11071,5 +11071,1253 @@
         ]
       }
     ]
+  },
+  {
+    "chapter": "Advanced CNA Comprehensive Review",
+    "questions": [
+      {
+        "chapter": "Safety",
+        "question": "A leading cause of death, especially among children and older persons is:",
+        "answer": "Falls",
+        "choices": [
+          "Burns",
+          "Falls",
+          "Poisoning",
+          "Choking"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "When children are in the kitchen, you should:",
+        "answer": "Use the burners at the back of the stove",
+        "choices": [
+          "Use the front burners for easier access",
+          "Use the burners at the back of the stove",
+          "Let them use the stove alone",
+          "Keep pot handles facing forward"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "Burns can be avoided if oven mitts and pot-holders are kept dry because:",
+        "answer": "Water conducts heat and can cause burns",
+        "choices": [
+          "Dry mitts are easier to clean",
+          "Water conducts heat and can cause burns",
+          "Wet mitts slip easily",
+          "Dry mitts last longer"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "Which gas is associated with accidental poisoning in the household?",
+        "answer": "Carbon monoxide",
+        "choices": [
+          "Oxygen",
+          "Carbon dioxide",
+          "Carbon monoxide",
+          "Nitrogen"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "Which of these is a source of carbon monoxide?",
+        "answer": "Furnace",
+        "choices": [
+          "Air conditioner",
+          "Furnace",
+          "Refrigerator",
+          "Electric heater"
+        ]
+      },
+      {
+        "chapter": "Emergency Care",
+        "question": "Abdominal thrusts given for choking can be used on:",
+        "answer": "Adults or children aged over 1 year",
+        "choices": [
+          "Adults only",
+          "Adults or children aged over 1 year",
+          "Infants only",
+          "Anyone regardless of age"
+        ]
+      },
+      {
+        "chapter": "Emergency Care",
+        "question": "When giving abdominal thrusts, the correct procedure is to:",
+        "answer": "Make a fist, place the thumb side against the abdomen, and push inward and upward",
+        "choices": [
+          "Make a fist, place the thumb side against the abdomen, and push inward and upward",
+          "Push slowly and gently",
+          "Place hands on the chest and compress",
+          "Strike the back forcefully"
+        ]
+      },
+      {
+        "chapter": "Emergency Care",
+        "question": "If an infant is choking, you should:",
+        "answer": "Hold the infant face down and give five forceful back slaps between the shoulder blades",
+        "choices": [
+          "Give abdominal thrusts",
+          "Hold the infant face down and give five forceful back slaps between the shoulder blades",
+          "Perform CPR immediately",
+          "Shake the infant"
+        ]
+      },
+      {
+        "chapter": "Emergency Care",
+        "question": "If a choking person becomes unresponsive, you should:",
+        "answer": "Make sure EMS or RRT was called",
+        "choices": [
+          "Continue abdominal thrusts only",
+          "Make sure EMS or RRT was called",
+          "Wait and watch",
+          "Give water to drink"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "What is the primary purpose of the three-pronged plug?",
+        "answer": "It protects the function of the appliance if there is a power surge",
+        "choices": [
+          "It makes the appliance work faster",
+          "It protects the function of the appliance if there is a power surge",
+          "It saves electricity",
+          "It prevents fires only"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "An electric shock is especially dangerous to which body system?",
+        "answer": "Circulatory system",
+        "choices": [
+          "Digestive system",
+          "Circulatory system",
+          "Integumentary system",
+          "Skeletal system"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "If you are shocked by electrical equipment, you should:",
+        "answer": "Report the shock at once",
+        "choices": [
+          "Continue using the equipment",
+          "Report the shock at once",
+          "Wait until end of shift to report",
+          "Unplug and discard the equipment"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "Which entity requires that health care employees understand the risks of hazardous substances and how to handle them safely?",
+        "answer": "Occupational Safety and Health Administration (OSHA)",
+        "choices": [
+          "Centers for Disease Control (CDC)",
+          "Occupational Safety and Health Administration (OSHA)",
+          "Food and Drug Administration (FDA)",
+          "American Nurses Association (ANA)"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "Which information is NOT included on the SDS (Safety Data Sheet) of a hazardous chemical?",
+        "answer": "Contact information for local resources",
+        "choices": [
+          "Hazard identification",
+          "First aid measures",
+          "Contact information for local resources",
+          "Handling and storage"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "For which situation would you refer to the Safety Data Sheets (SDS) for hazardous chemicals?",
+        "answer": "You are trying to safely store the product",
+        "choices": [
+          "Ordering supplies",
+          "You are trying to safely store the product",
+          "Calling a vendor",
+          "Scheduling maintenance"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "For which circumstances are you most likely to don gloves for personal protection?",
+        "answer": "You're using a cleaning solution to disinfect a bedpan",
+        "choices": [
+          "Delivering meal trays",
+          "You're using a cleaning solution to disinfect a bedpan",
+          "Taking vital signs",
+          "Making an empty bed"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "When a person is receiving oxygen, which of these is allowed in the room?",
+        "answer": "Electrical items that are in good working order",
+        "choices": [
+          "Open flames",
+          "Electrical items that are in good working order",
+          "Smoking materials",
+          "Matches or lighters"
+        ]
+      },
+      {
+        "chapter": "Fire Safety",
+        "question": "If a fire occurs, what should you do first?",
+        "answer": "Rescue people in immediate danger",
+        "choices": [
+          "Call 911",
+          "Rescue people in immediate danger",
+          "Extinguish the fire",
+          "Confine the fire"
+        ]
+      },
+      {
+        "chapter": "Fire Safety",
+        "question": "If a space heater is used in a home, a safety practice is to:",
+        "answer": "Keep the heater 3 feet away from curtains, drapes, and furniture",
+        "choices": [
+          "Place it near the bed for warmth",
+          "Keep the heater 3 feet away from curtains, drapes, and furniture",
+          "Cover it with a blanket when not in use",
+          "Leave it on all the time"
+        ]
+      },
+      {
+        "chapter": "Emergency Preparedness",
+        "question": "If there is a disaster, you:",
+        "answer": "May be called into work if you are off duty",
+        "choices": [
+          "Should stay home",
+          "May be called into work if you are off duty",
+          "Are not responsible",
+          "Should wait for instructions"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "A yellow color-coded wristband may indicate that the person:",
+        "answer": "Is at risk for falling",
+        "choices": [
+          "Has allergies",
+          "Is at risk for falling",
+          "Is a DNR",
+          "Needs isolation"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "What color wristband usually indicates allergies?",
+        "answer": "Red",
+        "choices": [
+          "Yellow",
+          "Red",
+          "Purple",
+          "Green"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "Purple or lavender wristbands indicate:",
+        "answer": "Do Not Resuscitate",
+        "choices": [
+          "Allergies",
+          "Fall risk",
+          "Do Not Resuscitate",
+          "Isolation"
+        ]
+      },
+      {
+        "chapter": "Fire Safety",
+        "question": "What does RACE stand for in fire safety?",
+        "answer": "Rescue, Alarm, Confine, Extinguish/Evacuate",
+        "choices": [
+          "Run, Alert, Call, Exit",
+          "Rescue, Alarm, Confine, Extinguish/Evacuate",
+          "Remove, Assess, Control, Escape",
+          "React, Announce, Close, Evacuate"
+        ]
+      },
+      {
+        "chapter": "Preventing Falls",
+        "question": "In nursing centers, the most common causes of falling are:",
+        "answer": "Weakness and walking problems",
+        "choices": [
+          "Poor lighting only",
+          "Weakness and walking problems",
+          "Wet floors only",
+          "Medication side effects only"
+        ]
+      },
+      {
+        "chapter": "Preventing Falls",
+        "question": "A position change alarm:",
+        "answer": "Warns when person is getting up unassisted",
+        "choices": [
+          "Monitors vital signs",
+          "Warns when person is getting up unassisted",
+          "Calls for help automatically",
+          "Prevents the person from moving"
+        ]
+      },
+      {
+        "chapter": "Preventing Falls",
+        "question": "Information about when to use bed rails for a person can be found in the:",
+        "answer": "Care plan",
+        "choices": [
+          "Policy manual",
+          "Care plan",
+          "Admission forms",
+          "Medication record"
+        ]
+      },
+      {
+        "chapter": "Preventing Falls",
+        "question": "What is your primary responsibility in preventing falls during shift change?",
+        "answer": "Stay with your assigned patients/residents",
+        "choices": [
+          "Attend the meeting",
+          "Stay with your assigned patients/residents",
+          "Complete paperwork",
+          "Check supplies"
+        ]
+      },
+      {
+        "chapter": "Preventing Falls",
+        "question": "Check with the nurse before using a transfer belt when a person:",
+        "answer": "Has abdominal wound or incision",
+        "choices": [
+          "Is overweight",
+          "Has abdominal wound or incision",
+          "Is elderly",
+          "Wears glasses"
+        ]
+      },
+      {
+        "chapter": "Preventing Falls",
+        "question": "You raise the bed to give care. If the person uses bed rails and you're working alone, what do you do with the side rails?",
+        "answer": "Lower the side rails you need to access to provide care safely and follow the care plan",
+        "choices": [
+          "Leave all rails up",
+          "Lower all rails",
+          "Lower the side rails you need to access to provide care safely and follow the care plan",
+          "Remove all rails"
+        ]
+      },
+      {
+        "chapter": "Preventing Falls",
+        "question": "After you are done giving care, how is the bed positioned?",
+        "answer": "Raise the side rails immediately after finishing care",
+        "choices": [
+          "Leave bed in raised position",
+          "Lower bed and leave rails down",
+          "Raise the side rails immediately after finishing care",
+          "Leave bed as is"
+        ]
+      },
+      {
+        "chapter": "Preventing Falls",
+        "question": "When using position change alarms safely, you should:",
+        "answer": "Place at least 2 feet from the person's ear to avoid loud noise",
+        "choices": [
+          "Place directly next to the person's ear",
+          "Place at least 2 feet from the person's ear to avoid loud noise",
+          "Turn volume to maximum",
+          "Place under the pillow"
+        ]
+      },
+      {
+        "chapter": "Safety",
+        "question": "Bed wheels are locked when:",
+        "answer": "Giving care and when you transfer a person to and from the bed",
+        "choices": [
+          "Only during transfers",
+          "Giving care and when you transfer a person to and from the bed",
+          "Only at night",
+          "Never locked"
+        ]
+      },
+      {
+        "chapter": "Preventing Falls",
+        "question": "Check with the nurse before using a transfer belt if the person has:",
+        "answer": "Ostomies, gastrostomy tube, COPD, or abdominal wounds",
+        "choices": [
+          "Diabetes",
+          "Ostomies, gastrostomy tube, COPD, or abdominal wounds",
+          "High blood pressure",
+          "Arthritis"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "It is important to be accurate when measuring resident's vital signs. If you get abnormal readings you should:",
+        "answer": "Measure them again and report them to your charge nurse",
+        "choices": [
+          "Document and move on",
+          "Measure them again and report them to your charge nurse",
+          "Wait an hour and recheck",
+          "Ignore if resident looks fine"
+        ]
+      },
+      {
+        "chapter": "Vital Signs",
+        "question": "The maximum amount of time a cold compress should be left on is:",
+        "answer": "20 minutes",
+        "choices": [
+          "10 minutes",
+          "20 minutes",
+          "30 minutes",
+          "45 minutes"
+        ]
+      },
+      {
+        "chapter": "Gerontology",
+        "question": "What is geriatrics?",
+        "answer": "The care of aging people",
+        "choices": [
+          "The study of aging",
+          "The care of aging people",
+          "Care of children",
+          "Emergency care"
+        ]
+      },
+      {
+        "chapter": "Gerontology",
+        "question": "What is gerontology?",
+        "answer": "The study of the aging process",
+        "choices": [
+          "The care of aging people",
+          "The study of the aging process",
+          "Care of chronic illness",
+          "Study of genetics"
+        ]
+      },
+      {
+        "chapter": "Gerontology",
+        "question": "Menopause occurs when:",
+        "answer": "There is at least one year with no menstrual period",
+        "choices": [
+          "A woman turns 50",
+          "There is at least one year with no menstrual period",
+          "Periods become irregular",
+          "Pregnancy occurs"
+        ]
+      },
+      {
+        "chapter": "Dementia Care",
+        "question": "You are assigned to care for an 86-year-old man who retains physical mobility but needs help with everyday activity because of dementia. Which action are you most likely to use?",
+        "answer": "Coach him step-by-step to put on his shirt",
+        "choices": [
+          "Let him dress independently",
+          "Coach him step-by-step to put on his shirt",
+          "Dress him completely",
+          "Give written instructions"
+        ]
+      },
+      {
+        "chapter": "Aging",
+        "question": "Based on the social changes that occur with aging, which topic is the oldest of the old most likely to talk about?",
+        "answer": "Death of a friend or family member",
+        "choices": [
+          "Career achievements",
+          "Death of a friend or family member",
+          "Future plans",
+          "Technology"
+        ]
+      },
+      {
+        "chapter": "Home Care",
+        "question": "You are providing care in the home setting. Which observation should be reported to the nurse because the elderly person is probably experiencing a reduced income?",
+        "answer": "Elderly person has stopped taking prescribed medication",
+        "choices": [
+          "Elderly person watches more TV",
+          "Elderly person has stopped taking prescribed medication",
+          "Elderly person sleeps more",
+          "Elderly person eats less"
+        ]
+      },
+      {
+        "chapter": "Cultural Diversity",
+        "question": "You notice that a foreign-born person rarely interacts with other residents in the nursing center. What should you do?",
+        "answer": "Identify residents or staff who can speak the person's language",
+        "choices": [
+          "Ignore the behavior",
+          "Identify residents or staff who can speak the person's language",
+          "Force interaction",
+          "Report as antisocial"
+        ]
+      },
+      {
+        "chapter": "Aging",
+        "question": "Which older person may be having trouble adjusting to changes in social relationships?",
+        "answer": "Person stays at home alone to save money",
+        "choices": [
+          "Person joins a senior center",
+          "Person stays at home alone to save money",
+          "Person calls friends daily",
+          "Person attends family gatherings"
+        ]
+      },
+      {
+        "chapter": "Family Dynamics",
+        "question": "What is a source of disagreement when an older person moves in with an adult child?",
+        "answer": "Family members experience a lack of privacy",
+        "choices": [
+          "Too much communication",
+          "Family members experience a lack of privacy",
+          "Too many activities",
+          "Improved relationships"
+        ]
+      },
+      {
+        "chapter": "Grief and Loss",
+        "question": "You are caring for an older couple in the home setting and the wife dies after a long illness. Which observation would you report to the nurse?",
+        "answer": "The husband develops headaches, insomnia, and seems sad",
+        "choices": [
+          "The husband continues normal activities",
+          "The husband develops headaches, insomnia, and seems sad",
+          "The husband calls family members",
+          "The husband attends church"
+        ]
+      },
+      {
+        "chapter": "Aging Changes",
+        "question": "What changes in the integumentary system would you expect to observe in an older person?",
+        "answer": "Skin is fragile and is easily bruised",
+        "choices": [
+          "Skin becomes thicker",
+          "Skin is fragile and is easily bruised",
+          "Skin produces more oil",
+          "Skin heals faster"
+        ]
+      },
+      {
+        "chapter": "Musculoskeletal",
+        "question": "Older persons can prevent bone loss and loss of muscle strength by:",
+        "answer": "Activity, exercise, and diet",
+        "choices": [
+          "Bed rest",
+          "Activity, exercise, and diet",
+          "Taking supplements only",
+          "Reducing fluid intake"
+        ]
+      },
+      {
+        "chapter": "Musculoskeletal",
+        "question": "In an elderly person, bones may break easily; therefore, which care measure would you use?",
+        "answer": "Turn and move the person gently and carefully",
+        "choices": [
+          "Move quickly to save time",
+          "Turn and move the person gently and carefully",
+          "Use force when needed",
+          "Avoid moving the person"
+        ]
+      },
+      {
+        "chapter": "Nervous System",
+        "question": "Which older person is displaying expected behavior related to aging of the nervous system?",
+        "answer": "Person C is usually calm and cooperative, but today he or she is angry and hostile",
+        "choices": [
+          "Person A shows no changes in behavior",
+          "Person B learns new skills quickly",
+          "Person C is usually calm and cooperative, but today he or she is angry and hostile",
+          "Person D has improved reflexes"
+        ]
+      },
+      {
+        "chapter": "Sensory Changes",
+        "question": "You recognize that an older person has a reduced sensitivity to touch, pressure, or pain; therefore, you will immediately report which of the following?",
+        "answer": "Person asks for an ice pack because his or her ankle is swollen and deformed",
+        "choices": [
+          "Person reports feeling cold",
+          "Person asks for an ice pack because his or her ankle is swollen and deformed",
+          "Person reports hunger",
+          "Person reports fatigue"
+        ]
+      },
+      {
+        "chapter": "Sensory Changes",
+        "question": "An older person is complaining about the taste of the food. Which care measure would you use?",
+        "answer": "Provide or encourage oral hygiene",
+        "choices": [
+          "Force the person to eat",
+          "Provide or encourage oral hygiene",
+          "Offer only liquids",
+          "Document refusal"
+        ]
+      },
+      {
+        "chapter": "Sensory Changes",
+        "question": "An older person reports decreased vision in dark rooms and at night. Which care measure would you use?",
+        "answer": "Open curtains in the day and turn on a night light",
+        "choices": [
+          "Leave room dark",
+          "Open curtains in the day and turn on a night light",
+          "Keep blinds closed",
+          "Use bright flashing lights"
+        ]
+      },
+      {
+        "chapter": "Sensory Changes",
+        "question": "Which sound is an older person most likely to have difficulty hearing?",
+        "answer": "High-pitched alarm on cell phone",
+        "choices": [
+          "Low-pitched voices",
+          "High-pitched alarm on cell phone",
+          "Bass tones",
+          "Deep voices"
+        ]
+      },
+      {
+        "chapter": "Circulatory Changes",
+        "question": "When severe circulatory changes occur, the person:",
+        "answer": "May need to rest during the day",
+        "choices": [
+          "Should exercise continuously",
+          "May need to rest during the day",
+          "Should avoid all activity",
+          "Should stand for long periods"
+        ]
+      },
+      {
+        "chapter": "Respiratory Changes",
+        "question": "When a person has difficulty breathing, it is easier to breathe when:",
+        "answer": "Resting in the semi-Fowler's position",
+        "choices": [
+          "Lying flat",
+          "Resting in the semi-Fowler's position",
+          "In prone position",
+          "Standing"
+        ]
+      },
+      {
+        "chapter": "Nutrition",
+        "question": "For an older person, which type of food is generally avoided?",
+        "answer": "Fried food",
+        "choices": [
+          "Fresh vegetables",
+          "Fried food",
+          "Lean proteins",
+          "Whole grains"
+        ]
+      },
+      {
+        "chapter": "Nutrition",
+        "question": "To prevent constipation, you would encourage which type of foods?",
+        "answer": "High fiber foods",
+        "choices": [
+          "Low fiber foods",
+          "High fiber foods",
+          "Processed foods",
+          "Fatty foods"
+        ]
+      },
+      {
+        "chapter": "Elimination",
+        "question": "Which person is likely to need the most assistance throughout the day?",
+        "answer": "Person has urinary incontinence",
+        "choices": [
+          "Person uses toilet independently",
+          "Person has urinary incontinence",
+          "Person needs no assistance",
+          "Person has regular bowel habits"
+        ]
+      },
+      {
+        "chapter": "Housing Options",
+        "question": "Adult day-care centers:",
+        "answer": "Provide meals, supervision, and activities for older persons",
+        "choices": [
+          "Provide 24-hour care",
+          "Provide meals, supervision, and activities for older persons",
+          "Are only for skilled nursing",
+          "Require hospitalization"
+        ]
+      },
+      {
+        "chapter": "Housing Options",
+        "question": "Elder Cottage Housing Opportunity or accessory dwelling units allow the person to:",
+        "answer": "Live independently but near family",
+        "choices": [
+          "Live in a nursing home",
+          "Live independently but near family",
+          "Require 24-hour care",
+          "Live in a hospital"
+        ]
+      },
+      {
+        "chapter": "Housing Options",
+        "question": "Home-sharing is a way to avoid:",
+        "answer": "Living alone",
+        "choices": [
+          "Social activities",
+          "Living alone",
+          "Family contact",
+          "Independence"
+        ]
+      },
+      {
+        "chapter": "Housing Options",
+        "question": "Assisted living facilities are for persons who:",
+        "answer": "Need help with daily living",
+        "choices": [
+          "Are completely independent",
+          "Need help with daily living",
+          "Require intensive care",
+          "Are hospitalized"
+        ]
+      },
+      {
+        "chapter": "Housing Options",
+        "question": "Continuing care retirement communities (CCRCs):",
+        "answer": "Add services as the person's needs change",
+        "choices": [
+          "Provide only one level of care",
+          "Add services as the person's needs change",
+          "Are temporary housing",
+          "Do not offer healthcare"
+        ]
+      },
+      {
+        "chapter": "Housing Options",
+        "question": "Nursing centers are housing options for older persons who:",
+        "answer": "Cannot care for themselves",
+        "choices": [
+          "Are completely independent",
+          "Cannot care for themselves",
+          "Need occasional help",
+          "Want social activities only"
+        ]
+      },
+      {
+        "chapter": "Regulatory",
+        "question": "What does CMS stand for?",
+        "answer": "Centers for Medicare & Medicaid Services",
+        "choices": [
+          "Central Medical Services",
+          "Centers for Medicare & Medicaid Services",
+          "Certified Medical Staff",
+          "Care Management System"
+        ]
+      },
+      {
+        "chapter": "Regulatory",
+        "question": "A quality nursing center must meet OBRA and CMS requirements to:",
+        "answer": "Receive Medicare and Medicaid funds",
+        "choices": [
+          "Hire more staff",
+          "Receive Medicare and Medicaid funds",
+          "Expand services",
+          "Advertise services"
+        ]
+      },
+      {
+        "chapter": "Quality Care",
+        "question": "A feature of a quality nursing center is:",
+        "answer": "Hand rails are provided in hallways",
+        "choices": [
+          "No safety features needed",
+          "Hand rails are provided in hallways",
+          "Limited staff",
+          "Restricted visiting hours"
+        ]
+      },
+      {
+        "chapter": "Quality of Life",
+        "question": "Quality of life is affected when disabilities interfere with everyday activities. They include:",
+        "answer": "Managing money, shopping, preparing meals, taking prescribed drugs",
+        "choices": [
+          "Only physical activities",
+          "Managing money, shopping, preparing meals, taking prescribed drugs",
+          "Only social activities",
+          "Only medical care"
+        ]
+      },
+      {
+        "chapter": "Medical Terminology",
+        "question": "What does AMD stand for?",
+        "answer": "Age-related Macular Degeneration",
+        "choices": [
+          "Acute Medical Disorder",
+          "Age-related Macular Degeneration",
+          "Advanced Muscle Disease",
+          "Automatic Medical Device"
+        ]
+      },
+      {
+        "chapter": "Dementia",
+        "question": "What is the primary difference between dementia and delirium?",
+        "answer": "Rapidity of onset",
+        "choices": [
+          "Age of patient",
+          "Rapidity of onset",
+          "Treatment options",
+          "Symptoms"
+        ]
+      },
+      {
+        "chapter": "Dementia",
+        "question": "Dementia can be treated if it is caused by:",
+        "answer": "Vitamin deficiency",
+        "choices": [
+          "Aging",
+          "Vitamin deficiency",
+          "Genetics only",
+          "Normal aging process"
+        ]
+      },
+      {
+        "chapter": "Dementia",
+        "question": "Which reminder are you most likely to give to a person who has a mild cognitive disorder?",
+        "answer": "To call his daughter about a scheduled appointment",
+        "choices": [
+          "Complex medical instructions",
+          "To call his daughter about a scheduled appointment",
+          "Detailed life history",
+          "Financial planning advice"
+        ]
+      },
+      {
+        "chapter": "Dementia",
+        "question": "The most common type of permanent dementia in older persons is:",
+        "answer": "AD (Alzheimer's disease)",
+        "choices": [
+          "Vascular dementia",
+          "AD (Alzheimer's disease)",
+          "Parkinson's dementia",
+          "Lewy body dementia"
+        ]
+      },
+      {
+        "chapter": "Dementia",
+        "question": "People with dementia can have signs and symptoms that are similar to:",
+        "answer": "Depression",
+        "choices": [
+          "Happiness",
+          "Depression",
+          "Excitement",
+          "Alertness"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "Which behavior is an example of the most common early symptom of Alzheimer's disease (AD)?",
+        "answer": "Person can't remember the instructions that you just gave him about the call bell",
+        "choices": [
+          "Increased energy",
+          "Person can't remember the instructions that you just gave him about the call bell",
+          "Improved memory",
+          "Better coordination"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "You are caring for a person with mild AD; which action will you use?",
+        "answer": "Coach step-by-step for donning and buttoning shirt",
+        "choices": [
+          "Let them figure it out alone",
+          "Coach step-by-step for donning and buttoning shirt",
+          "Do everything for them",
+          "Give complex instructions"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "You are caring for a person with moderate AD; which action will you use?",
+        "answer": "Consistently use the same routine with morning hygiene",
+        "choices": [
+          "Change routine daily",
+          "Consistently use the same routine with morning hygiene",
+          "Avoid any routine",
+          "Rush through care"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "You are caring for a person with severe AD; which action will you use?",
+        "answer": "Explain what you are doing even though he can't communicate",
+        "choices": [
+          "Don't speak to the person",
+          "Explain what you are doing even though he can't communicate",
+          "Work in silence",
+          "Use complex language"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "A person with Alzheimer's needs home care. A sign on the inside of the front door says 'STOP.' You know that you must use care measures that address:",
+        "answer": "Wandering",
+        "choices": [
+          "Aggression",
+          "Wandering",
+          "Sleep problems",
+          "Eating issues"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "When a person with AD has symptoms of sundowning, which measure could you try to reduce the agitation?",
+        "answer": "Offer fluids and a snack",
+        "choices": [
+          "Turn off all lights",
+          "Offer fluids and a snack",
+          "Leave them alone",
+          "Increase noise level"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "When you assist a person with AD to wear prescribed glasses or hearing aids, it helps to prevent:",
+        "answer": "Hallucinations",
+        "choices": [
+          "Falls only",
+          "Hallucinations",
+          "Eating problems",
+          "Sleep issues"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "If a person with AD seems afraid or is worried about money, you should assume the person has:",
+        "answer": "Paranoia",
+        "choices": [
+          "Good judgment",
+          "Paranoia",
+          "Normal concerns",
+          "Financial problems"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "The television is loud, people are laughing and talking, and you are asking the person to select several items off the dinner menu. This stimuli could overwhelm the person and cause:",
+        "answer": "Catastrophic reactions",
+        "choices": [
+          "Happiness",
+          "Catastrophic reactions",
+          "Better focus",
+          "Improved memory"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "A caregiver may cause agitation and aggression by:",
+        "answer": "Expecting the person to complete care quickly",
+        "choices": [
+          "Speaking slowly",
+          "Expecting the person to complete care quickly",
+          "Using simple instructions",
+          "Being patient"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "When you wish to communicate with a person who has AD or other dementias, you should:",
+        "answer": "Make eye contact to get the person's attention",
+        "choices": [
+          "Avoid eye contact",
+          "Make eye contact to get the person's attention",
+          "Speak loudly",
+          "Use complex sentences"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "What should you do when a person repeats the same motions or repeats the same words over and over?",
+        "answer": "Distract the person with music or picture books",
+        "choices": [
+          "Tell them to stop",
+          "Distract the person with music or picture books",
+          "Ignore the behavior",
+          "Restrain the person"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "A person with AD is encouraged to take part in therapies and activities that:",
+        "answer": "Help the person to feel useful, worthwhile, and active",
+        "choices": [
+          "Are complex and challenging",
+          "Help the person to feel useful, worthwhile, and active",
+          "Require competition",
+          "Are fast-paced"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "You are assigned to work in a memory care unit. You must be particularly mindful of which principle?",
+        "answer": "Least restrictive approach",
+        "choices": [
+          "Most restrictive approach",
+          "Least restrictive approach",
+          "Maximum restraints",
+          "Limited freedom"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "A person with AD no longer stays in a secured unit when:",
+        "answer": "Aggressive behaviors disrupt the unit",
+        "choices": [
+          "They improve",
+          "Aggressive behaviors disrupt the unit",
+          "Family requests",
+          "Cost is too high"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "A family who cares for a person with dementia at home:",
+        "answer": "May feel guilty, angry, and upset",
+        "choices": [
+          "Always feels happy",
+          "May feel guilty, angry, and upset",
+          "Never needs support",
+          "Has no stress"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "Some early warning signs of dementia affect memory. An example is:",
+        "answer": "Losing things or forgetting names",
+        "choices": [
+          "Improved recall",
+          "Losing things or forgetting names",
+          "Better organization",
+          "Enhanced memory"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "Early warning signs of dementia affect language. An example is:",
+        "answer": "Forgetting simple words",
+        "choices": [
+          "Speaking more clearly",
+          "Forgetting simple words",
+          "Using complex vocabulary",
+          "Writing better"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "Early warning signs of dementia affect judgment. An example is:",
+        "answer": "Going out in the snow without shoes",
+        "choices": [
+          "Making better decisions",
+          "Going out in the snow without shoes",
+          "Planning ahead carefully",
+          "Showing good judgment"
+        ]
+      },
+      {
+        "chapter": "Dementia",
+        "question": "What substances can cause treatable dementia?",
+        "answer": "Head injury, blood clots, tumors, and infections",
+        "choices": [
+          "Normal aging only",
+          "Head injury, blood clots, tumors, and infections",
+          "Genetics only",
+          "Diet only"
+        ]
+      },
+      {
+        "chapter": "Alzheimer's Disease",
+        "question": "In Alzheimer's disease (AD), there is a slow, steady decline in mental functions including:",
+        "answer": "Memory loss, decreased ability to think clearly, difficulty with familiar tasks",
+        "choices": [
+          "Improved memory",
+          "Memory loss, decreased ability to think clearly, difficulty with familiar tasks",
+          "Better decision making",
+          "Enhanced cognitive function"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "What is the main difference between palliative care and hospice care?",
+        "answer": "In palliative care, treatment of the disease may continue",
+        "choices": [
+          "They are exactly the same",
+          "In palliative care, treatment of the disease may continue",
+          "Hospice is for younger patients",
+          "Palliative care is only for cancer"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "Hospice care:",
+        "answer": "Is given when death is immediately imminent",
+        "choices": [
+          "Is for long-term chronic illness",
+          "Is given when death is immediately imminent",
+          "Focuses on curing disease",
+          "Is only for hospitals"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "Freedom from pain, suffering, and disability is a view of death attributed to:",
+        "answer": "Older adults",
+        "choices": [
+          "Children",
+          "Older adults",
+          "Young adults",
+          "Teenagers"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "If a dying person begins to talk about worries and concerns, you should:",
+        "answer": "Listen quietly and use touch",
+        "choices": [
+          "Change the subject",
+          "Listen quietly and use touch",
+          "Leave the room",
+          "Tell them not to worry"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "Care given when a person is dying should be done:",
+        "answer": "To promote comfort",
+        "choices": [
+          "Quickly to save time",
+          "To promote comfort",
+          "Only when requested",
+          "Minimally"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "Because vision fails as death approaches, you should:",
+        "answer": "Explain what you are doing",
+        "choices": [
+          "Work in silence",
+          "Explain what you are doing",
+          "Avoid the person",
+          "Turn off all lights"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "Hearing is one of the last functions lost, so it is important to:",
+        "answer": "Provide reassurance and explanations about care",
+        "choices": [
+          "Speak loudly",
+          "Provide reassurance and explanations about care",
+          "Avoid speaking",
+          "Whisper only"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "Because of breathing difficulties, the dying person is generally more comfortable in the:",
+        "answer": "Semi-Fowler's position",
+        "choices": [
+          "Prone position",
+          "Semi-Fowler's position",
+          "Flat supine",
+          "Trendelenburg"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "When a person is dying, you can help the family by:",
+        "answer": "Allowing family members to stay as long as they wish",
+        "choices": [
+          "Limiting visiting hours",
+          "Allowing family members to stay as long as they wish",
+          "Keeping family away",
+          "Restricting visitors"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "If a person has a living will, it may instruct doctors:",
+        "answer": "Not to start measures that will save the person's life",
+        "choices": [
+          "To do everything possible",
+          "Not to start measures that will save the person's life",
+          "To ignore family wishes",
+          "To prolong life indefinitely"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "If the doctor writes a 'Do Not Resuscitate' (DNR) order, it means that:",
+        "answer": "The person will not be resuscitated",
+        "choices": [
+          "CPR will be performed",
+          "The person will not be resuscitated",
+          "All care stops",
+          "Family has no say"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "What is a sign that death is near?",
+        "answer": "Body temperature changes",
+        "choices": [
+          "Increased appetite",
+          "Body temperature changes",
+          "Improved breathing",
+          "Better circulation"
+        ]
+      },
+      {
+        "chapter": "End of Life Care",
+        "question": "When the family wishes to see the body after death, it should:",
+        "answer": "Be positioned to appear comfortable and natural",
+        "choices": [
+          "Be covered completely",
+          "Be positioned to appear comfortable and natural",
+          "Not be viewed",
+          "Be left as is"
+        ]
+      },
+      {
+        "chapter": "Person-Centered Care",
+        "question": "Who is the most important person in the health care agency?",
+        "answer": "The patient or resident",
+        "choices": [
+          "The doctor",
+          "The patient or resident",
+          "The administrator",
+          "The nurse"
+        ]
+      },
+      {
+        "chapter": "Person-Centered Care",
+        "question": "Which of these statements shows that you see the person as a whole person?",
+        "answer": "Mrs. Jones reports having pain in her leg",
+        "choices": [
+          "The patient in room 3",
+          "Mrs. Jones reports having pain in her leg",
+          "The hip fracture",
+          "The diabetic"
+        ]
+      },
+      {
+        "chapter": "Resident Rights",
+        "question": "What is seclusion?",
+        "answer": "Involuntary confinement of a resident alone in a room from which they are physically prevented from leaving",
+        "choices": [
+          "Private time",
+          "Involuntary confinement of a resident alone in a room from which they are physically prevented from leaving",
+          "Quiet time",
+          "Rest period"
+        ]
+      },
+      {
+        "chapter": "Ethics",
+        "question": "What is ethics?",
+        "answer": "A set of rules accepted by society that helps determine if behavior is right or wrong",
+        "choices": [
+          "Personal beliefs",
+          "A set of rules accepted by society that helps determine if behavior is right or wrong",
+          "Religious practices",
+          "Legal requirements"
+        ]
+      }
+    ]
   }
 ]
